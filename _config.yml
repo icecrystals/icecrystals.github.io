@@ -1,4 +1,4 @@
-title: Researcher
+title: Zhikai Huang
 url: "https://huangzk.com"
 baseurl: ""
 
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/icecrystals"
+footer_text: "My Github Link"
 
 sass:
     style: compressed
