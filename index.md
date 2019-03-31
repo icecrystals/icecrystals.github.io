@@ -16,10 +16,10 @@ This site is built to show my basic academic information and experiences.
 
 ## Education
 
-Year | Institute | Major
------|-------|--------
-2015 - 2019 | [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)  | B.Eng in Electrical Engineering
-2019 - 2021 | [Swiss Federal Institute of Technology at Zurich](https://www.ethz.ch/) | M.Sc in Biomedical Engineering
+Year | Institute | Major |Focus
+-----|-------|--------|--------
+2015 - 2019 | [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)  | B.Eng in Electrical Engineering | VLSI & Computer Architecture
+2019 - 2021 | [Swiss Federal Institute of Technology at Zurich](https://www.ethz.ch/) | M.Sc in Biomedical Engineering | Neuroinformatics, Machine Learning & VLSI
 
 ## Honors
 
