@@ -18,8 +18,8 @@ This site is built to show my basic academic information and experiences.
 
 Year | Institute | Major
 -----|-------|--------
-2015 - 2019 | Xi'an Jiaotong University  | B.Eng in Electrical Engineering
-2019 - 2021 | Swiss Federal Institute of Technology at Zurich | M.Sc in Biomedical Engineering
+2015 - 2019 | [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)  | B.Eng in Electrical Engineering
+2019 - 2021 | [Swiss Federal Institute of Technology at Zurich](https://www.ethz.ch/) | M.Sc in Biomedical Engineering
 
 ## Honors
 
