@@ -9,6 +9,5 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
     	<jalbum:link rel="sub" href="2023/album.rss" title="2023" thumbnail="2023/2023.05%20%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3/thumbs/DCCE8424-0D81-47A3-A770-332589C4F811_1_105_c.jpeg" thumbnailWidth="212" thumbnailHeight="170" />
-    	<jalbum:link rel="sub" href="album/album.rss" title="album" thumbnail="album/thumbs/folderimg.jpg" thumbnailWidth="212" thumbnailHeight="170" />
     </channel>
 </rss>
