@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2022</title>
+   	<link>..</link>
+        <generator>jAlbum 31</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2022.08%20%E8%8B%8F%E9%BB%8E%E4%B8%96/album.rss" title="2022.08 苏黎世" thumbnail="2022.08%20%E8%8B%8F%E9%BB%8E%E4%B8%96/thumbs/F9246FE3-A77D-4390-A91F-2CE95543FE32.jpeg" thumbnailWidth="212" thumbnailHeight="170" />
+    	<jalbum:link rel="sub" href="2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/album.rss" title="2022.11 卢塞恩" thumbnail="2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/thumbs/87F53F1E-E0AD-4DC8-BB8F-90D11842CE38.jpeg" thumbnailWidth="212" thumbnailHeight="170" />
+    </channel>
+</rss>
