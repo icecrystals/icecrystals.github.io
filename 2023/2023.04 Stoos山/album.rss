@@ -9,17 +9,6 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>前往Stroos</title>
-            <link>slides/B114EA27-EFBB-41CC-AC87-75833BBFCE21.jpeg</link>
-            <pubDate>Thu, 01 Jun 2023 02:01:22 +0200</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/B114EA27-EFBB-41CC-AC87-75833BBFCE21.jpeg" width="212" height="170"/>
-            <media:content type="image/jpeg" url="slides/B114EA27-EFBB-41CC-AC87-75833BBFCE21.jpeg" width="1000" height="667"/>
-            <jalbum:exif originalDate="Sat, 22 Apr 2023 08:49:13 +0200" cameraMake="SONY" cameraModel="ILCE-6000"/>
-            <guid isPermaLink="false">slides/B114EA27-EFBB-41CC-AC87-75833BBFCE21.jpeg</guid>
-        </item>
-        <item>
             <title>雪山</title>
             <link>slides/ABC55E9F-F66E-4164-AA97-EB04047B7CFA.jpeg</link>
             <pubDate>Thu, 01 Jun 2023 02:01:22 +0200</pubDate>
