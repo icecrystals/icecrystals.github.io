@@ -8,7 +8,7 @@
         <generator>jAlbum 31</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="2023/album.rss" title="2023" thumbnail="2023/2023.06%20%E8%8B%8F%E9%BB%8E%E4%B8%96%E6%89%AB%E8%A1%97/thumbs/559482D2-A7AA-4A90-ABC6-940D99151048_1_105_c.jpeg" thumbnailWidth="212" thumbnailHeight="170" />
-    	<jalbum:link rel="sub" href="2022/album.rss" title="2022" thumbnail="2022/2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/thumbs/87F53F1E-E0AD-4DC8-BB8F-90D11842CE38.jpeg" thumbnailWidth="212" thumbnailHeight="170" />
+    	<jalbum:link rel="sub" href="2023/album.rss" title="2023" thumbnail="2023/2023.06%20%E8%8B%8F%E9%BB%8E%E4%B8%96%E6%89%AB%E8%A1%97/thumbs/559482D2-A7AA-4A90-ABC6-940D99151048_1_105_c.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2022/album.rss" title="2022" thumbnail="2022/2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/thumbs/87F53F1E-E0AD-4DC8-BB8F-90D11842CE38.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     </channel>
 </rss>
