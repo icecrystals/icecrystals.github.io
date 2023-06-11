@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2023.06 咸阳</title>
+   	<link>..</link>
+        <generator>jAlbum 31</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>美食街</title>
+            <link>slides/%E7%BE%8E%E9%A3%9F%E8%A1%97.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E7%BE%8E%E9%A3%9F%E8%A1%97.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E7%BE%8E%E9%A3%9F%E8%A1%97.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 11 Jun 2023 14:49:32 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E7%BE%8E%E9%A3%9F%E8%A1%97.jpeg</guid>
+        </item>
+        <item>
+            <title>鸭子船</title>
+            <link>slides/%E9%B8%AD%E5%AD%90%E8%88%B9.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E9%B8%AD%E5%AD%90%E8%88%B9.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E9%B8%AD%E5%AD%90%E8%88%B9.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 11 Jun 2023 15:16:32 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E9%B8%AD%E5%AD%90%E8%88%B9.jpeg</guid>
+        </item>
+        <item>
+            <title>古建筑楼台</title>
+            <link>slides/%E5%8F%A4%E5%BB%BA%E7%AD%91%E6%A5%BC%E5%8F%B0.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%8F%A4%E5%BB%BA%E7%AD%91%E6%A5%BC%E5%8F%B0.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E5%8F%A4%E5%BB%BA%E7%AD%91%E6%A5%BC%E5%8F%B0.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 11 Jun 2023 15:29:22 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E5%8F%A4%E5%BB%BA%E7%AD%91%E6%A5%BC%E5%8F%B0.jpeg</guid>
+        </item>
+        <item>
+            <title>渭城桥</title>
+            <link>slides/%E6%B8%AD%E5%9F%8E%E6%A1%A5.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%B8%AD%E5%9F%8E%E6%A1%A5.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E6%B8%AD%E5%9F%8E%E6%A1%A5.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 11 Jun 2023 15:42:47 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E6%B8%AD%E5%9F%8E%E6%A1%A5.jpeg</guid>
+        </item>
+        <item>
+            <title>灯笼</title>
+            <link>slides/%E7%81%AF%E7%AC%BC.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E7%81%AF%E7%AC%BC.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E7%81%AF%E7%AC%BC.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 11 Jun 2023 15:50:42 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E7%81%AF%E7%AC%BC.jpeg</guid>
+        </item>
+        <item>
+            <title>北平街</title>
+            <link>slides/%E5%8C%97%E5%B9%B3%E8%A1%97.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%8C%97%E5%B9%B3%E8%A1%97.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E5%8C%97%E5%B9%B3%E8%A1%97.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 11 Jun 2023 15:58:10 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E5%8C%97%E5%B9%B3%E8%A1%97.jpeg</guid>
+        </item>
+        <item>
+            <title>墙</title>
+            <link>slides/%E5%A2%99.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%A2%99.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E5%A2%99.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 11 Jun 2023 16:05:18 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E5%A2%99.jpeg</guid>
+        </item>
+        <item>
+            <title>归国飞机</title>
+            <link>slides/%E5%BD%92%E5%9B%BD%E9%A3%9E%E6%9C%BA.html</link>
+            <pubDate>Sun, 11 Jun 2023 22:48:44 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%BD%92%E5%9B%BD%E9%A3%9E%E6%9C%BA.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E5%BD%92%E5%9B%BD%E9%A3%9E%E6%9C%BA.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 10 Jun 2023 14:18:06 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E5%BD%92%E5%9B%BD%E9%A3%9E%E6%9C%BA.jpeg</guid>
+        </item>
+    </channel>
+</rss>

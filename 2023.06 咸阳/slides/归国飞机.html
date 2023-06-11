@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title>夏和帆的摄影记录</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="../../res/common.css" rel="stylesheet">
+	<link href="../../res/styles.css" rel="stylesheet">
+	<script>
+document.onkeydown = function(event) {
+	switch(event.keyCode) {
+		case 27: // esc
+		case 38: // up
+			location.href = '../index.html';
+			break;
+		case 37: // back
+			location.href = '%E5%A2%99.html';
+			break;
+	}
+};
+</script>
+<link rel="alternate" href="../album.rss" type="application/rss+xml">
+</head>
+
+<body id="slide-page" class="responsive">
+	<header class="autohide">
+		<div id="nav">
+			<a class="btn" href="../index.html" title="To index page"><img src="../../res/icon/thin/light/index.svg" alt="To index page"></a>
+			
+			
+			<a class="btn" href="%E5%A2%99.html" title="Previous page"><img src="../../res/icon/thin/light/prev.svg" alt="Next page"></a>
+			<span class="btn" title="At last page"><img src="../../res/icon/thin/light/next-disabled.svg" alt="At last page"></span>
+		</div>
+	</header>
+	
+	<div id="slideimage">
+		<div id="imagewrap">
+			<img src="%E5%BD%92%E5%9B%BD%E9%A3%9E%E6%9C%BA.jpeg" width="1200" height="800" alt="归国飞机">		
+		</div>		
+		<a href="%E5%A2%99.html" id="slide-prev" title="Previous page"></a>
+	</div>
+			
+	<footer class="autohide" id="caption" style="max-width: 1200px">
+		<div id="imagetitle">归国飞机</div>
+
+		
+	</footer>
+	
+	<script src="../../res/slide.js"></script>
+
+<div id="jalbumwidgetcontainer"></div>
+<script>
+_jaSkin = "Minimal";
+_jaStyle = "light.css";
+_jaVersion = "31.0.1";
+_jaGeneratorType = "desktop";
+_jaLanguage = "zh";
+_jaPageType = "slide";
+_jaRootPath = "../..";
+_jaUserId = "1272258";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "http"+("https:"==document.location.protocol?"s":"")+"://jalbum.net/widgetapi/load.js";
+document.getElementById("jalbumwidgetcontainer").appendChild(script);
+</script>
+
+</body>
+</html>
