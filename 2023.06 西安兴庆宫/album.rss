@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>西交校园里的石桥</title>
+   	<link>..</link>
+        <generator>jAlbum 31</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>西交校园里的石桥</title>
+            <link>slides/9936013F-34BF-41EE-9589-01AF70A48D2D_1_105_c.html</link>
+            <pubDate>Fri, 16 Jun 2023 08:57:27 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/9936013F-34BF-41EE-9589-01AF70A48D2D_1_105_c.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/9936013F-34BF-41EE-9589-01AF70A48D2D_1_105_c.jpeg" width="1086" height="724"/>
+            <jalbum:exif originalDate="Tue, 13 Jun 2023 15:27:08 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/9936013F-34BF-41EE-9589-01AF70A48D2D_1_105_c.jpeg</guid>
+        </item>
+        <item>
+            <title>荷叶</title>
+            <link>slides/2DE317EA-384C-4075-BD6C-08EFC3038D1E_1_105_c.html</link>
+            <pubDate>Fri, 16 Jun 2023 08:57:27 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2DE317EA-384C-4075-BD6C-08EFC3038D1E_1_105_c.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2DE317EA-384C-4075-BD6C-08EFC3038D1E_1_105_c.jpeg" width="1086" height="724"/>
+            <jalbum:exif originalDate="Tue, 13 Jun 2023 15:57:12 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/2DE317EA-384C-4075-BD6C-08EFC3038D1E_1_105_c.jpeg</guid>
+        </item>
+        <item>
+            <title>独船</title>
+            <link>slides/5A2CB61A-8171-4EAA-92EC-73C9CC5F71DE_1_105_c.html</link>
+            <pubDate>Fri, 16 Jun 2023 08:57:27 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/5A2CB61A-8171-4EAA-92EC-73C9CC5F71DE_1_105_c.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/5A2CB61A-8171-4EAA-92EC-73C9CC5F71DE_1_105_c.jpeg" width="905" height="800"/>
+            <jalbum:exif originalDate="Tue, 13 Jun 2023 16:07:01 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/5A2CB61A-8171-4EAA-92EC-73C9CC5F71DE_1_105_c.jpeg</guid>
+        </item>
+    </channel>
+</rss>
