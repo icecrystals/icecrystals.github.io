@@ -63,5 +63,27 @@
             <jalbum:exif originalDate="Sat, 17 Jun 2023 12:52:01 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
             <guid isPermaLink="false">slides/%E5%B0%8F%E9%9B%95%E5%A1%91.jpeg</guid>
         </item>
+        <item>
+            <title>袁家村美食街</title>
+            <link>slides/%E8%A2%81%E5%AE%B6%E6%9D%91%E7%BE%8E%E9%A3%9F%E8%A1%97.html</link>
+            <pubDate>Sat, 17 Jun 2023 16:41:52 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E8%A2%81%E5%AE%B6%E6%9D%91%E7%BE%8E%E9%A3%9F%E8%A1%97.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E8%A2%81%E5%AE%B6%E6%9D%91%E7%BE%8E%E9%A3%9F%E8%A1%97.jpeg" width="1200" height="785"/>
+            <jalbum:exif originalDate="Sat, 17 Jun 2023 12:53:20 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E8%A2%81%E5%AE%B6%E6%9D%91%E7%BE%8E%E9%A3%9F%E8%A1%97.jpeg</guid>
+        </item>
+        <item>
+            <title>葫芦店</title>
+            <link>slides/%E8%91%AB%E8%8A%A6%E5%BA%97.html</link>
+            <pubDate>Sat, 17 Jun 2023 16:41:52 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E8%91%AB%E8%8A%A6%E5%BA%97.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/%E8%91%AB%E8%8A%A6%E5%BA%97.jpeg" width="1200" height="786"/>
+            <jalbum:exif originalDate="Sat, 17 Jun 2023 14:17:41 +0800" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/%E8%91%AB%E8%8A%A6%E5%BA%97.jpeg</guid>
+        </item>
     </channel>
 </rss>
