@@ -24,5 +24,6 @@
     	<jalbum:link rel="sub" href="2023.04%20Stoos%E5%B1%B1/album.rss" title="2023.04 Stoos山" thumbnail="2023.04%20Stoos%E5%B1%B1/thumbs/ABC55E9F-F66E-4164-AA97-EB04047B7CFA.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/album.rss" title="2022.11 卢塞恩" thumbnail="2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/thumbs/87F53F1E-E0AD-4DC8-BB8F-90D11842CE38.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="2022.08%20%E8%8B%8F%E9%BB%8E%E4%B8%96/album.rss" title="2022.08 苏黎世" thumbnail="2022.08%20%E8%8B%8F%E9%BB%8E%E4%B8%96/thumbs/F9246FE3-A77D-4390-A91F-2CE95543FE32.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="999%E5%9B%BE%E5%BA%8A/album.rss" title="999图床" thumbnail="999%E5%9B%BE%E5%BA%8A/thumbs/IMG_1686643564E8-1.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     </channel>
 </rss>

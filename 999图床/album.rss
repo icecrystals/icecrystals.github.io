@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>999图床</title>
+   	<link>..</link>
+        <generator>jAlbum 31</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_1686643564E8-1</title>
+            <link>slides/IMG_1686643564E8-1.html</link>
+            <pubDate>Sat, 08 Jul 2023 23:35:58 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1686643564E8-1.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_1686643564E8-1.jpeg" width="750" height="800"/>
+            <guid isPermaLink="false">slides/IMG_1686643564E8-1.jpeg</guid>
+        </item>
+    </channel>
+</rss>
