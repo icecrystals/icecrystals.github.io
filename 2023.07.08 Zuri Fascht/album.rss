@@ -337,5 +337,16 @@
             <media:content type="image/jpeg" url="slides/803F4D38-F7C7-4887-BFF4-A5BC44C12563_1_201_a.jpeg" width="1091" height="800"/>
             <guid isPermaLink="false">slides/803F4D38-F7C7-4887-BFF4-A5BC44C12563_1_201_a.jpeg</guid>
         </item>
+        <item>
+            <title>MVI_4625</title>
+            <link>slides/MVI_4625.html</link>
+            <pubDate>Sat, 15 Jul 2023 16:53:39 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/MVI_4625.jpg" width="124" height="124"/>
+            <media:content  url="slides/MVI_4625.mp4" width="1200" height="675"/>
+            <jalbum:original url="slides/MVI_4625.mp4" width="3840" height="2160" fileSize="1626905268"/>
+            <guid isPermaLink="false">slides/MVI_4625.jpg</guid>
+        </item>
     </channel>
 </rss>
