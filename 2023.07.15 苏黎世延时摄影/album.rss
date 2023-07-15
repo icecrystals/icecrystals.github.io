@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2023.07.15 苏黎世延时摄影</title>
+   	<link>..</link>
+        <generator>jAlbum 31</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>PANA2948</title>
+            <link>slides/PANA2948.html</link>
+            <pubDate>Sat, 15 Jul 2023 16:37:41 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PANA2948.jpg" width="124" height="124"/>
+            <media:content  url="slides/PANA2948.mp4" width="1200" height="675"/>
+            <jalbum:original url="slides/PANA2948.mp4" width="3840" height="2160" fileSize="71210609"/>
+            <guid isPermaLink="false">slides/PANA2948.jpg</guid>
+        </item>
+        <item>
+            <title>PANA3281</title>
+            <link>slides/PANA3281.html</link>
+            <pubDate>Sat, 15 Jul 2023 16:37:41 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PANA3281.jpg" width="124" height="124"/>
+            <media:content  url="slides/PANA3281.mp4" width="1200" height="675"/>
+            <jalbum:original url="slides/PANA3281.mp4" width="3840" height="2160" fileSize="18324432"/>
+            <guid isPermaLink="false">slides/PANA3281.jpg</guid>
+        </item>
+    </channel>
+</rss>
