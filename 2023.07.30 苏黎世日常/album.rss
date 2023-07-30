@@ -140,5 +140,49 @@
             <jalbum:exif originalDate="Sun, 30 Jul 2023 16:17:03 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
             <guid isPermaLink="false">slides/IMG_6756.jpeg</guid>
         </item>
+        <item>
+            <title>PANA3893</title>
+            <link>slides/PANA3893.html</link>
+            <pubDate>Sun, 30 Jul 2023 21:38:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PANA3893.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PANA3893.jpeg" width="1200" height="717"/>
+            <jalbum:exif originalDate="Fri, 28 Jul 2023 21:29:50 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA3893.jpeg</guid>
+        </item>
+        <item>
+            <title>PANA3900</title>
+            <link>slides/PANA3900.html</link>
+            <pubDate>Sun, 30 Jul 2023 21:38:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PANA3900.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PANA3900.jpeg" width="1002" height="800"/>
+            <jalbum:exif originalDate="Fri, 28 Jul 2023 21:43:01 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA3900.jpeg</guid>
+        </item>
+        <item>
+            <title>PANA3906</title>
+            <link>slides/PANA3906.html</link>
+            <pubDate>Sun, 30 Jul 2023 21:38:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PANA3906.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PANA3906.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Fri, 28 Jul 2023 21:46:00 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA3906.jpeg</guid>
+        </item>
+        <item>
+            <title>PANA3908</title>
+            <link>slides/PANA3908.html</link>
+            <pubDate>Sun, 30 Jul 2023 21:38:18 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/PANA3908.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/PANA3908.jpeg" width="902" height="800"/>
+            <jalbum:exif originalDate="Fri, 28 Jul 2023 21:51:36 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA3908.jpeg</guid>
+        </item>
     </channel>
 </rss>
