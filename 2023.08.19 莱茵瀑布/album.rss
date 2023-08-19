@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2023.08.19 莱茵瀑布</title>
+   	<link>..</link>
+        <generator>jAlbum 31</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_6821</title>
+            <link>slides/IMG_6821.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6821.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6821.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 13:40:04 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6821.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_6831</title>
+            <link>slides/IMG_6831.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6831.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6831.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 14:14:30 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6831.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_6849</title>
+            <link>slides/IMG_6849.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6849.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6849.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 14:34:08 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6849.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_6859</title>
+            <link>slides/IMG_6859.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6859.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6859.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 14:38:40 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6859.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_6862</title>
+            <link>slides/IMG_6862.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6862.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6862.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 14:41:21 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6862.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_6864</title>
+            <link>slides/IMG_6864.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6864.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6864.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 14:42:40 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6864.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_6973</title>
+            <link>slides/IMG_6973.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6973.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6973.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 15:53:47 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6973.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_6985</title>
+            <link>slides/IMG_6985.html</link>
+            <pubDate>Sun, 20 Aug 2023 00:00:34 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6985.JPG" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6985.JPG" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 19 Aug 2023 16:07:31 +0200" cameraMake="Canon" cameraModel="Canon EOS R10"/>
+            <guid isPermaLink="false">slides/IMG_6985.JPG</guid>
+        </item>
+    </channel>
+</rss>
