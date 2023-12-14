@@ -10,42 +10,42 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>4501701566578_.pic</title>
-            <link>slides/4501701566578_.pic.jpg</link>
+            <link>slides/4501701566578_.pic.html</link>
             <pubDate>Sun, 03 Dec 2023 04:05:42 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/4501701566578_.pic.jpg" width="97" height="146"/>
+            <media:thumbnail url="thumbs/4501701566578_.pic.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/4501701566578_.pic.jpg" width="533" height="800"/>
             <guid isPermaLink="false">slides/4501701566578_.pic.jpg</guid>
         </item>
         <item>
             <title>4511701566580_.pic</title>
-            <link>slides/4511701566580_.pic.jpg</link>
+            <link>slides/4511701566580_.pic.html</link>
             <pubDate>Sun, 03 Dec 2023 04:05:42 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/4511701566580_.pic.jpg" width="205" height="146"/>
-            <media:content type="image/jpeg" url="slides/4511701566580_.pic.jpg" width="1000" height="711"/>
+            <media:thumbnail url="thumbs/4511701566580_.pic.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4511701566580_.pic.jpg" width="1125" height="800"/>
             <guid isPermaLink="false">slides/4511701566580_.pic.jpg</guid>
         </item>
         <item>
             <title>4491701566576_.pic</title>
-            <link>slides/4491701566576_.pic.jpg</link>
+            <link>slides/4491701566576_.pic.html</link>
             <pubDate>Sun, 03 Dec 2023 04:05:42 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/4491701566576_.pic.jpg" width="219" height="146"/>
-            <media:content type="image/jpeg" url="slides/4491701566576_.pic.jpg" width="1000" height="666"/>
+            <media:thumbnail url="thumbs/4491701566576_.pic.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4491701566576_.pic.jpg" width="1200" height="800"/>
             <guid isPermaLink="false">slides/4491701566576_.pic.jpg</guid>
         </item>
         <item>
             <title>4481701566571_.pic_hd</title>
-            <link>slides/4481701566571_.pic_hd.jpg</link>
+            <link>slides/4481701566571_.pic_hd.html</link>
             <pubDate>Sun, 03 Dec 2023 04:05:42 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/4481701566571_.pic_hd.jpg" width="208" height="146"/>
-            <media:content type="image/jpeg" url="slides/4481701566571_.pic_hd.jpg" width="1000" height="701"/>
+            <media:thumbnail url="thumbs/4481701566571_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/4481701566571_.pic_hd.jpg" width="1142" height="800"/>
             <guid isPermaLink="false">slides/4481701566571_.pic_hd.jpg</guid>
         </item>
     </channel>
