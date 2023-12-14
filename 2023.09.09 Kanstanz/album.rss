@@ -5,48 +5,52 @@
     <channel>
         <title>2023.09.09 Kanstanz</title>
    	<link>..</link>
-        <generator>jAlbum 31</generator>
+        <generator>jAlbum 33.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>ba086f8750b978078ac29bc11d1dd0</title>
-            <link>slides/ba086f8750b978078ac29bc11d1dd0.html</link>
-            <pubDate>Mon, 11 Dec 2023 12:01:52 +0100</pubDate>
+            <title>PANA4058</title>
+            <link>slides/PANA4058.jpeg</link>
+            <pubDate>Thu, 14 Dec 2023 11:26:08 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/ba086f8750b978078ac29bc11d1dd0.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/ba086f8750b978078ac29bc11d1dd0.jpg" width="150" height="226"/>
-            <guid isPermaLink="false">slides/ba086f8750b978078ac29bc11d1dd0.jpg</guid>
+            <media:thumbnail url="thumbs/PANA4058.jpeg" width="97" height="146"/>
+            <media:content type="image/jpeg" url="slides/PANA4058.jpeg" width="533" height="800"/>
+            <jalbum:exif originalDate="Sat, 09 Sep 2023 12:19:56 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA4058.jpeg</guid>
         </item>
         <item>
-            <title>cefa94f32d25547343d03501801581</title>
-            <link>slides/cefa94f32d25547343d03501801581.html</link>
-            <pubDate>Mon, 11 Dec 2023 12:01:52 +0100</pubDate>
+            <title>PANA4078</title>
+            <link>slides/PANA4078.jpeg</link>
+            <pubDate>Thu, 14 Dec 2023 11:26:08 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/cefa94f32d25547343d03501801581.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/cefa94f32d25547343d03501801581.jpg" width="200" height="150"/>
-            <guid isPermaLink="false">slides/cefa94f32d25547343d03501801581.jpg</guid>
+            <media:thumbnail url="thumbs/PANA4078.jpeg" width="198" height="146"/>
+            <media:content type="image/jpeg" url="slides/PANA4078.jpeg" width="1000" height="737"/>
+            <jalbum:exif originalDate="Sat, 09 Sep 2023 13:04:45 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA4078.jpeg</guid>
         </item>
         <item>
-            <title>931447450737ceafc5ebc70d353704</title>
-            <link>slides/931447450737ceafc5ebc70d353704.html</link>
-            <pubDate>Mon, 11 Dec 2023 12:01:52 +0100</pubDate>
+            <title>PANA4111</title>
+            <link>slides/PANA4111.jpeg</link>
+            <pubDate>Thu, 14 Dec 2023 11:26:08 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/931447450737ceafc5ebc70d353704.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/931447450737ceafc5ebc70d353704.jpg" width="204" height="150"/>
-            <guid isPermaLink="false">slides/931447450737ceafc5ebc70d353704.jpg</guid>
+            <media:thumbnail url="thumbs/PANA4111.jpeg" width="219" height="146"/>
+            <media:content type="image/jpeg" url="slides/PANA4111.jpeg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sat, 09 Sep 2023 13:32:24 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA4111.jpeg</guid>
         </item>
         <item>
-            <title>1711fa6de125e914c9af5df97c2d69</title>
-            <link>slides/1711fa6de125e914c9af5df97c2d69.html</link>
-            <pubDate>Mon, 11 Dec 2023 12:01:52 +0100</pubDate>
+            <title>PANA4113</title>
+            <link>slides/PANA4113.jpeg</link>
+            <pubDate>Thu, 14 Dec 2023 11:26:08 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1711fa6de125e914c9af5df97c2d69.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/1711fa6de125e914c9af5df97c2d69.jpg" width="150" height="226"/>
-            <guid isPermaLink="false">slides/1711fa6de125e914c9af5df97c2d69.jpg</guid>
+            <media:thumbnail url="thumbs/PANA4113.jpeg" width="97" height="146"/>
+            <media:content type="image/jpeg" url="slides/PANA4113.jpeg" width="533" height="800"/>
+            <jalbum:exif originalDate="Sat, 09 Sep 2023 13:33:48 +0200" cameraMake="Panasonic" cameraModel="DC-S5"/>
+            <guid isPermaLink="false">slides/PANA4113.jpeg</guid>
         </item>
     </channel>
 </rss>

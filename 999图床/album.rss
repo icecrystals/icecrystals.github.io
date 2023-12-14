@@ -5,16 +5,16 @@
     <channel>
         <title>999图床</title>
    	<link>..</link>
-        <generator>jAlbum 31</generator>
+        <generator>jAlbum 33.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>IMG_1686643564E8-1</title>
-            <link>slides/IMG_1686643564E8-1.html</link>
+            <link>slides/IMG_1686643564E8-1.jpeg</link>
             <pubDate>Sat, 08 Jul 2023 23:35:58 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_1686643564E8-1.jpeg" width="124" height="124"/>
+            <media:thumbnail url="thumbs/IMG_1686643564E8-1.jpeg" width="137" height="146"/>
             <media:content type="image/jpeg" url="slides/IMG_1686643564E8-1.jpeg" width="750" height="800"/>
             <guid isPermaLink="false">slides/IMG_1686643564E8-1.jpeg</guid>
         </item>

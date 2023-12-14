@@ -1,4 +1,4 @@
-// File slidePage.js made with jAlbum 31.0.1 with LightGallery 1.2.3, album creation date 2023/6/1 23:55 
+// File slidePage.js made with jAlbum 31.0.1 with LightGallery 1.2.3, album creation date 2023/12/14 11:27 
 const osMap = false; 
 const maxNrofButtons = 3; 
 const usePlaceholder= false;
@@ -102,9 +102,9 @@ var useGeocodingAPI = false;
 
 
 
-var albumImageIndex = 0;
+var albumImageIndex = -1;
 
-var srcImg = [  
+var srcImg = [                          
 ];
 const nrofImages = '0';
 const skipIndexPage = false;
@@ -123,13 +123,85 @@ const counterFieldUsed= false;
 var fileCategory = [
   'folder',
   'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
+  'folder',
 ];
 var wImg = [
+1620,
+720,
+720,
+1620,
+1620,
+1620,
+540,
+360,
+1920,
+1086,
+1086,
+1086,
+1086,
+1802,
+1098,
+1086,
 1086,
 1620,
+1620,
+1426,
+1086,
+1620,
+1620,
+1620,
+1620,
+1013,
 ];
 var hImg = [
+1080,
+1080,
+1080,
+1080,
+1080,
+1080,
+360,
+540,
+1080,
 724,
+724,
+724,
+724,
+1080,
+715,
+724,
+724,
+1080,
+1080,
+1080,
+724,
+1080,
+1080,
+1080,
+1080,
 1080,
 ];
 // -- End properties block --
