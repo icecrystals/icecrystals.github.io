@@ -3,7 +3,7 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>2023.12.15 圣诞旅行I - 巴塞尔机场</title>
+        <title>2023.12.15 圣诞旅行DAY1 - 巴塞尔机场</title>
    	<link>..</link>
         <generator>jAlbum 33.3</generator>
    		<description></description>
@@ -11,34 +11,34 @@
         <item>
             <title>IMG_4760</title>
             <link>slides/IMG_4760.html</link>
-            <pubDate>Fri, 15 Dec 2023 21:55:24 +0100</pubDate>
+            <pubDate>Fri, 15 Dec 2023 22:55:24 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_4760.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_4760.jpg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Fri, 15 Dec 2023 10:42:48 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Fri, 15 Dec 2023 11:42:48 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_4760.jpg</guid>
         </item>
         <item>
             <title>IMG_4730</title>
             <link>slides/IMG_4730.html</link>
-            <pubDate>Fri, 15 Dec 2023 21:55:24 +0100</pubDate>
+            <pubDate>Fri, 15 Dec 2023 22:55:24 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_4730.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_4730.jpg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Fri, 15 Dec 2023 10:02:29 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Fri, 15 Dec 2023 11:02:29 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_4730.jpg</guid>
         </item>
         <item>
             <title>IMG_4726</title>
             <link>slides/IMG_4726.html</link>
-            <pubDate>Fri, 15 Dec 2023 21:55:24 +0100</pubDate>
+            <pubDate>Fri, 15 Dec 2023 22:55:24 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_4726.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_4726.jpg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Fri, 15 Dec 2023 09:57:49 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Fri, 15 Dec 2023 10:57:49 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_4726.jpg</guid>
         </item>
     </channel>
