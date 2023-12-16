@@ -52,5 +52,27 @@
             <jalbum:exif originalDate="Sat, 16 Dec 2023 14:38:56 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/D2%20%E9%9B%85%E5%85%B8%E5%8D%AB%E5%9F%8E.jpg</guid>
         </item>
+        <item>
+            <title>IMG_4834</title>
+            <link>slides/IMG_4834.html</link>
+            <pubDate>Sat, 16 Dec 2023 23:28:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4834.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_4834.jpg" width="1200" height="765"/>
+            <jalbum:exif originalDate="Sat, 16 Dec 2023 15:02:56 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_4834.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4877</title>
+            <link>slides/IMG_4877.html</link>
+            <pubDate>Sat, 16 Dec 2023 23:28:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4877.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_4877.jpg" width="1200" height="793"/>
+            <jalbum:exif originalDate="Sat, 16 Dec 2023 16:10:58 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_4877.jpg</guid>
+        </item>
     </channel>
 </rss>
