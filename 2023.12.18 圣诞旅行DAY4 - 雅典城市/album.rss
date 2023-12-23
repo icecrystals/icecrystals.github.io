@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2023.12.18 圣诞旅行DAY4 - 雅典城市</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_5314</title>
+            <link>slides/IMG_5314.html</link>
+            <pubDate>Sat, 23 Dec 2023 23:25:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5314.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5314.jpg" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 12:26:09 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5314.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5317</title>
+            <link>slides/IMG_5317.html</link>
+            <pubDate>Sat, 23 Dec 2023 23:25:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5317.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5317.jpg" width="1200" height="747"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 12:28:14 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5317.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5331</title>
+            <link>slides/IMG_5331.html</link>
+            <pubDate>Sat, 23 Dec 2023 23:25:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5331.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5331.jpg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 12:54:42 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5331.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5340</title>
+            <link>slides/IMG_5340.html</link>
+            <pubDate>Sat, 23 Dec 2023 23:25:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5340.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5340.jpg" width="533" height="800"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 13:39:57 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5340.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5384</title>
+            <link>slides/IMG_5384.html</link>
+            <pubDate>Sat, 23 Dec 2023 23:25:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5384.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5384.jpg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 14:07:18 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5384.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5432</title>
+            <link>slides/IMG_5432.html</link>
+            <pubDate>Sat, 23 Dec 2023 23:25:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5432.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5432.jpg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 16:06:53 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5432.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5436</title>
+            <link>slides/IMG_5436.html</link>
+            <pubDate>Sat, 23 Dec 2023 23:25:18 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5436.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5436.jpg" width="531" height="800"/>
+            <jalbum:exif originalDate="Mon, 18 Dec 2023 16:13:36 +0100" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5436.jpg</guid>
+        </item>
+    </channel>
+</rss>
