@@ -4,17 +4,14 @@
 	<meta charset="UTF-8">
 	<title>Life.DayDay.Plus</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="../../res/common.css" rel="stylesheet">
-	<link href="../../res/styles.css" rel="stylesheet">
+	<link href="../res/common.css" rel="stylesheet">
+	<link href="../res/styles.css" rel="stylesheet">
 	<script>
 document.onkeydown = function(event) {
 	switch(event.keyCode) {
 		case 27: // esc
 		case 38: // up
 			location.href = '../index.html';
-			break;
-		case 37: // back
-			location.href = 'IMG_1686643564E8-1.html';
 			break;
 	}
 };
@@ -25,11 +22,11 @@ document.onkeydown = function(event) {
 <body id="slide-page" class="responsive">
 	<header class="autohide">
 		<div id="nav">
-			<a class="btn" href="../index.html" title="To index page"><img src="../../res/icon/thin/light/index.svg" alt="To index page"></a>
+			<a class="btn" href="../index.html" title="To index page"><img src="../res/icon/thin/light/index.svg" alt="To index page"></a>
 			
 			
-			<a class="btn" href="IMG_1686643564E8-1.html" title="Previous page"><img src="../../res/icon/thin/light/prev.svg" alt="Next page"></a>
-			<span class="btn" title="At last page"><img src="../../res/icon/thin/light/next-disabled.svg" alt="At last page"></span>
+			<span class="btn" title="At first page"><img src="../res/icon/thin/light/prev-disabled.svg" alt="At first page"></span>
+			<span class="btn" title="At last page"><img src="../res/icon/thin/light/next-disabled.svg" alt="At last page"></span>
 		</div>
 	</header>
 	
@@ -37,7 +34,6 @@ document.onkeydown = function(event) {
 		<div id="imagewrap">
 			<img src="watermark.png" width="1040" height="144" alt="watermark">		
 		</div>		
-		<a href="IMG_1686643564E8-1.html" id="slide-prev" title="Previous page"></a>
 	</div>
 			
 	<footer class="autohide" id="caption" style="max-width: 1040px">
@@ -46,7 +42,7 @@ document.onkeydown = function(event) {
 		
 	</footer>
 	
-	<script src="../../res/slide.js"></script>
+	<script src="../res/slide.js"></script>
 
 <div id="jalbumwidgetcontainer"></div>
 <script>
@@ -56,7 +52,7 @@ _jaVersion = "33.3.1";
 _jaGeneratorType = "desktop";
 _jaLanguage = "zh";
 _jaPageType = "slide";
-_jaRootPath = "../..";
+_jaRootPath = "..";
 _jaUserId = "1272258";
 var script = document.createElement("script");
 script.type = "text/javascript";
