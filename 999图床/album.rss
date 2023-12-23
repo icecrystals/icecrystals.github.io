@@ -24,8 +24,8 @@
             <pubDate>Sat, 23 Dec 2023 01:30:02 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/watermark.png" width="56" height="56"/>
-            <media:content type="image/png" url="slides/watermark.png" width="396" height="56"/>
+            <media:thumbnail url="thumbs/watermark.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/watermark.png" width="1040" height="144"/>
             <guid isPermaLink="false">slides/watermark.png</guid>
         </item>
     </channel>
