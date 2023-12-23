@@ -11,12 +11,22 @@
         <item>
             <title>IMG_1686643564E8-1</title>
             <link>slides/IMG_1686643564E8-1.html</link>
-            <pubDate>Sun, 09 Jul 2023 00:35:58 +0300</pubDate>
+            <pubDate>Sat, 08 Jul 2023 23:35:58 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_1686643564E8-1.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_1686643564E8-1.jpeg" width="750" height="800"/>
             <guid isPermaLink="false">slides/IMG_1686643564E8-1.jpeg</guid>
+        </item>
+        <item>
+            <title>watermark</title>
+            <link>slides/watermark.html</link>
+            <pubDate>Sat, 23 Dec 2023 01:30:02 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/watermark.png" width="56" height="56"/>
+            <media:content type="image/png" url="slides/watermark.png" width="396" height="56"/>
+            <guid isPermaLink="false">slides/watermark.png</guid>
         </item>
     </channel>
 </rss>
