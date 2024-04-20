@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2024.04.20 雨后苏黎世</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_5920</title>
+            <link>slides/IMG_5920.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5920.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5920.jpg" width="1099" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 12:27:22 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5920.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5964</title>
+            <link>slides/IMG_5964.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5964.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5964.jpg" width="842" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 15:27:23 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5964.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5969</title>
+            <link>slides/IMG_5969.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5969.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5969.jpg" width="973" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 15:28:01 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5969.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6002</title>
+            <link>slides/IMG_6002.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6002.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6002.jpg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 15:43:14 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6002.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6016</title>
+            <link>slides/IMG_6016.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6016.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6016.jpg" width="1089" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 15:47:35 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6016.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6020</title>
+            <link>slides/IMG_6020.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6020.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6020.jpg" width="1191" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 15:51:16 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6020.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_6023</title>
+            <link>slides/IMG_6023.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6023.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6023.jpg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 16:24:19 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6023.jpg</guid>
+        </item>
+    </channel>
+</rss>
