@@ -13,6 +13,9 @@ document.onkeydown = function(event) {
 		case 38: // up
 			location.href = '../index.html';
 			break;
+		case 37: // back
+			location.href = 'IMG_6016.html';
+			break;
 		case 39: // forward
 			location.href = 'IMG_5964.html';
 			break;
@@ -28,7 +31,7 @@ document.onkeydown = function(event) {
 			<a class="btn" href="../index.html" title="To index page"><img src="../../res/icon/thin/light/index.svg" alt="To index page"></a>
 			
 			
-			<span class="btn" title="At first page"><img src="../../res/icon/thin/light/prev-disabled.svg" alt="At first page"></span>
+			<a class="btn" href="IMG_6016.html" title="Previous page"><img src="../../res/icon/thin/light/prev.svg" alt="Next page"></a>
 			<a class="btn" href="IMG_5964.html" title="Next page"><img src="../../res/icon/thin/light/next.svg" alt="Next page"></a>
 		</div>
 	</header>
@@ -37,6 +40,7 @@ document.onkeydown = function(event) {
 		<div id="imagewrap">
 			<img src="IMG_5920.jpg" width="1099" height="800" alt="IMG_5920">		
 		</div>		
+		<a href="IMG_6016.html" id="slide-prev" title="Previous page"></a>
 		<a href="IMG_5964.html" id="slide-next" title="Next page"></a>
 	</div>
 			

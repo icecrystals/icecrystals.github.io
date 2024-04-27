@@ -9,6 +9,17 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
+            <title>IMG_6016</title>
+            <link>slides/IMG_6016.html</link>
+            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6016.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6016.jpg" width="1089" height="800"/>
+            <jalbum:exif originalDate="Sat, 20 Apr 2024 15:47:35 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6016.jpg</guid>
+        </item>
+        <item>
             <title>IMG_5920</title>
             <link>slides/IMG_5920.html</link>
             <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
@@ -51,17 +62,6 @@
             <media:content type="image/jpeg" url="slides/IMG_6002.jpg" width="1200" height="800"/>
             <jalbum:exif originalDate="Sat, 20 Apr 2024 15:43:14 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6002.jpg</guid>
-        </item>
-        <item>
-            <title>IMG_6016</title>
-            <link>slides/IMG_6016.html</link>
-            <pubDate>Sat, 20 Apr 2024 19:07:11 +0200</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_6016.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_6016.jpg" width="1089" height="800"/>
-            <jalbum:exif originalDate="Sat, 20 Apr 2024 15:47:35 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
-            <guid isPermaLink="false">slides/IMG_6016.jpg</guid>
         </item>
         <item>
             <title>IMG_6020</title>
