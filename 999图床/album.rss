@@ -38,5 +38,35 @@
             <media:content  url="slides/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg" width="800" height="800"/>
             <guid isPermaLink="false">slides/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg</guid>
         </item>
+        <item>
+            <title>IMG_0512</title>
+            <link>slides/IMG_0512.html</link>
+            <pubDate>Fri, 31 May 2024 23:14:06 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0512.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_0512.jpg" width="853" height="480"/>
+            <guid isPermaLink="false">slides/IMG_0512.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3237</title>
+            <link>slides/IMG_3237.html</link>
+            <pubDate>Fri, 31 May 2024 23:14:06 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3237.PNG" width="124" height="124"/>
+            <media:content type="image/png" url="slides/IMG_3237.PNG" width="1067" height="800"/>
+            <guid isPermaLink="false">slides/IMG_3237.PNG</guid>
+        </item>
+        <item>
+            <title>IMG_3379</title>
+            <link>slides/IMG_3379.html</link>
+            <pubDate>Fri, 31 May 2024 23:14:06 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3379.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_3379.jpg" width="1146" height="800"/>
+            <guid isPermaLink="false">slides/IMG_3379.jpg</guid>
+        </item>
     </channel>
 </rss>
