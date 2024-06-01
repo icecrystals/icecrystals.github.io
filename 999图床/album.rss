@@ -41,7 +41,7 @@
         <item>
             <title>IMG_0512</title>
             <link>slides/IMG_0512.html</link>
-            <pubDate>Fri, 31 May 2024 23:14:06 +0200</pubDate>
+            <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_0512.jpg" width="124" height="124"/>
@@ -51,7 +51,7 @@
         <item>
             <title>IMG_3237</title>
             <link>slides/IMG_3237.html</link>
-            <pubDate>Fri, 31 May 2024 23:14:06 +0200</pubDate>
+            <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_3237.PNG" width="124" height="124"/>
@@ -61,12 +61,32 @@
         <item>
             <title>IMG_3379</title>
             <link>slides/IMG_3379.html</link>
-            <pubDate>Fri, 31 May 2024 23:14:06 +0200</pubDate>
+            <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_3379.jpg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_3379.jpg" width="1146" height="800"/>
             <guid isPermaLink="false">slides/IMG_3379.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3394</title>
+            <link>slides/IMG_3394.html</link>
+            <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3394.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_3394.jpg" width="301" height="800"/>
+            <guid isPermaLink="false">slides/IMG_3394.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3389</title>
+            <link>slides/IMG_3389.html</link>
+            <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3389.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_3389.jpg" width="159" height="800"/>
+            <guid isPermaLink="false">slides/IMG_3389.jpg</guid>
         </item>
     </channel>
 </rss>
