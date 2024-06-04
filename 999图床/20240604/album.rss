@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>20240604</title>
+   	<link>../..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Snipaste_2024-06-04_22-43-30</title>
+            <link>slides/Snipaste_2024-06-04_22-43-30.html</link>
+            <pubDate>Tue, 04 Jun 2024 22:45:08 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Snipaste_2024-06-04_22-43-30.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Snipaste_2024-06-04_22-43-30.png" width="1200" height="280"/>
+            <guid isPermaLink="false">slides/Snipaste_2024-06-04_22-43-30.png</guid>
+        </item>
+        <item>
+            <title>Snipaste_2024-06-04_22-44-27</title>
+            <link>slides/Snipaste_2024-06-04_22-44-27.html</link>
+            <pubDate>Tue, 04 Jun 2024 22:45:08 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Snipaste_2024-06-04_22-44-27.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Snipaste_2024-06-04_22-44-27.png" width="1200" height="480"/>
+            <guid isPermaLink="false">slides/Snipaste_2024-06-04_22-44-27.png</guid>
+        </item>
+    </channel>
+</rss>

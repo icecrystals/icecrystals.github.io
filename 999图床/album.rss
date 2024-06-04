@@ -8,6 +8,7 @@
         <generator>jAlbum 33.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="20240604/album.rss" title="20240604" thumbnail="20240604/thumbs/Snipaste_2024-06-04_22-43-30.png" thumbnailWidth="124" thumbnailHeight="124" />
         <item>
             <title>IMG_1686643564E8-1</title>
             <link>slides/IMG_1686643564E8-1.html</link>
