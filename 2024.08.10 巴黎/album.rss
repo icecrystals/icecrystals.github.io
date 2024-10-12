@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2024.08.10 巴黎</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2024-08-10-巴黎4</title>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.html</link>
+            <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg" width="1107" height="800"/>
+            <jalbum:exif originalDate="Sat, 10 Aug 2024 11:52:41 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
+            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg</guid>
+        </item>
+        <item>
+            <title>2024-08-10-巴黎1</title>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.html</link>
+            <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg" width="982" height="800"/>
+            <jalbum:exif originalDate="Sat, 10 Aug 2024 08:40:04 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
+            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg</guid>
+        </item>
+        <item>
+            <title>2024-08-10-巴黎3</title>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.html</link>
+            <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg" width="982" height="800"/>
+            <jalbum:exif originalDate="Sat, 10 Aug 2024 10:46:06 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
+            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg</guid>
+        </item>
+        <item>
+            <title>2024-08-10-巴黎2</title>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.html</link>
+            <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg" width="568" height="800"/>
+            <jalbum:exif originalDate="Sat, 10 Aug 2024 08:48:23 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
+            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg</guid>
+        </item>
+    </channel>
+</rss>

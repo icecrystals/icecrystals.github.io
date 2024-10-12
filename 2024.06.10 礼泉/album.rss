@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2024.06.10 礼泉</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2024-06-10-礼泉</title>
+            <link>slides/2024-06-10-%E7%A4%BC%E6%B3%89.html</link>
+            <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-06-10-%E7%A4%BC%E6%B3%89.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-06-10-%E7%A4%BC%E6%B3%89.jpg" width="1087" height="800"/>
+            <jalbum:exif originalDate="Mon, 10 Jun 2024 03:01:24 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/2024-06-10-%E7%A4%BC%E6%B3%89.jpg</guid>
+        </item>
+    </channel>
+</rss>
