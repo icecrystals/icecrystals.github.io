@@ -44,3 +44,9 @@ a:hover {
 #slide-page.responsive > footer:hover {
 	background-color: rgba(255,255,255,.85);
 }
+
+/* Force-hide caption when it contains no title and no comment */
+#caption:not(:has(#imagetitle, #slidecomment, #albumtitle, #foldertitle)) {
+    display: none !important;
+}
+

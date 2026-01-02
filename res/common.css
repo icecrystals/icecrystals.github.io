@@ -272,3 +272,10 @@ img {
 	font-size: 0.75em;
 	padding: 10px 15px;
 }
+
+/* Force-hide caption when it contains no title and no comment */
+#caption:not(:has(#imagetitle, #slidecomment, #albumtitle, #foldertitle)) {
+    display: none !important;
+}
+
+
