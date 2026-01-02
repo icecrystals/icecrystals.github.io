@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2025.02.04 西安昆明池</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>汉武帝雕塑</title>
+            <link>slides/2481767376832_.pic_hd.html</link>
+            <pubDate>Fri, 02 Jan 2026 19:01:55 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2481767376832_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2481767376832_.pic_hd.jpg" width="533" height="800"/>
+            <guid isPermaLink="false">slides/2481767376832_.pic_hd.jpg</guid>
+        </item>
+        <item>
+            <title>桥</title>
+            <link>slides/2471767376829_.pic_hd.html</link>
+            <pubDate>Fri, 02 Jan 2026 19:01:55 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2471767376829_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2471767376829_.pic_hd.jpg" width="1200" height="800"/>
+            <guid isPermaLink="false">slides/2471767376829_.pic_hd.jpg</guid>
+        </item>
+        <item>
+            <title>芦苇</title>
+            <link>slides/2491767376838_.pic_hd.html</link>
+            <pubDate>Fri, 02 Jan 2026 19:01:55 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2491767376838_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2491767376838_.pic_hd.jpg" width="1200" height="800"/>
+            <guid isPermaLink="false">slides/2491767376838_.pic_hd.jpg</guid>
+        </item>
+        <item>
+            <title>昆明池边的仿古建筑</title>
+            <link>slides/2501767376841_.pic_hd.html</link>
+            <pubDate>Fri, 02 Jan 2026 19:01:55 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2501767376841_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2501767376841_.pic_hd.jpg" width="1200" height="800"/>
+            <guid isPermaLink="false">slides/2501767376841_.pic_hd.jpg</guid>
+        </item>
+        <item>
+            <title>花灯</title>
+            <link>slides/2511767376843_.pic_hd.html</link>
+            <pubDate>Fri, 02 Jan 2026 19:01:55 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2511767376843_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2511767376843_.pic_hd.jpg" width="533" height="800"/>
+            <guid isPermaLink="false">slides/2511767376843_.pic_hd.jpg</guid>
+        </item>
+    </channel>
+</rss>
