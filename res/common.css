@@ -259,6 +259,13 @@ img {
 #caption {
 	padding: 10px;
 }
+#caption audio {
+	width: 13rem;
+}
+#caption audio::-webkit-media-controls-current-time-display,
+#caption audio::-webkit-media-controls-time-remaining-display {
+    display: none;
+}
 #imagetitle {
 	font-size: 1.125em;
 	margin: 5px;
@@ -272,10 +279,3 @@ img {
 	font-size: 0.75em;
 	padding: 10px 15px;
 }
-
-/* Force-hide caption when it contains no title and no comment */
-#caption:not(:has(#imagetitle, #slidecomment, #albumtitle, #foldertitle)) {
-    display: none !important;
-}
-
-

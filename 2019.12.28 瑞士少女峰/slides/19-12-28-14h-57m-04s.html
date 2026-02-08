@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title>网络相册 Personal Album</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="../../res/common.css" rel="stylesheet">
+	<link href="../../res/styles.css" rel="stylesheet">
+	<script>
+document.onkeydown = function(event) {
+	switch(event.keyCode) {
+		case 27: // esc
+		case 38: // up
+			location.href = '../index.html';
+			break;
+		case 37: // back
+			location.href = '19-12-28-12h-39m-09s.html';
+			break;
+	}
+};
+</script>
+<link rel="alternate" href="../album.rss" type="application/rss+xml">
+</head>
+
+<body id="slide-page" class="responsive">
+	<header class="autohide">
+		<div id="nav">
+			<a class="btn" href="../index.html" title="To index page"><img src="../../res/icon/thin/light/index.svg" alt="To index page"></a>
+
+			<div id="thumbnav">
+				<a href="19-12-28-19h-32m-33s.html" title="19-12-28-19h-32m-33s"><img src="../thumbs/19-12-28-19h-32m-33s.jpg" width="41" height="41" alt="19-12-28-19h-32m-33s"></a>
+				<a href="19-12-28-15h-07m-59s.html" title="19-12-28-15h-07m-59s"><img src="../thumbs/19-12-28-15h-07m-59s.jpg" width="41" height="41" alt="19-12-28-15h-07m-59s"></a>
+				<a href="19-12-28-14h-47m-18s.html" title="19-12-28-14h-47m-18s"><img src="../thumbs/19-12-28-14h-47m-18s.jpg" width="41" height="41" alt="19-12-28-14h-47m-18s"></a>
+				<a href="19-12-28-12h-39m-09s.html" title="19-12-28-12h-39m-09s"><img src="../thumbs/19-12-28-12h-39m-09s.jpg" width="41" height="41" alt="19-12-28-12h-39m-09s"></a>
+				<div id="thumbcurrent"><img src="../thumbs/19-12-28-14h-57m-04s.jpg" width="41" height="41" alt="19-12-28-14h-57m-04s"></div>
+			</div>
+
+			<a class="btn" href="19-12-28-12h-39m-09s.html" title="Previous page"><img src="../../res/icon/thin/light/prev.svg" alt="Next page"></a>
+			<span class="btn" title="At last page"><img src="../../res/icon/thin/light/next-disabled.svg" alt="At last page"></span>
+		</div>
+	</header>
+
+	<div id="slideimage">
+		<div id="imagewrap">
+			<img src="19-12-28-14h-57m-04s.jpg" width="1067" height="800" alt="19-12-28-14h-57m-04s">
+		</div>
+		<a href="19-12-28-12h-39m-09s.html" id="slide-prev" title="Previous page"></a>
+	</div>
+
+	<footer class="autohide" id="caption" style="max-width: 1067px">
+
+
+
+	</footer>
+
+	<script src="../../res/slide.js"></script>
+
+<div id="jalbumwidgetcontainer"></div>
+<script>
+_jaSkin = "Minimal";
+_jaStyle = "light.css";
+_jaVersion = "33.3.1";
+_jaGeneratorType = "desktop";
+_jaLanguage = "zh";
+_jaPageType = "slide";
+_jaRootPath = "../..";
+_jaUserId = "1272258";
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "http"+("https:"==document.location.protocol?"s":"")+"://jalbum.net/widgetapi/load.js";
+document.getElementById("jalbumwidgetcontainer").appendChild(script);
+</script>
+
+</body>
+</html>

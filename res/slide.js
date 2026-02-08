@@ -66,16 +66,15 @@ document.addEventListener('DOMContentLoaded', function(e) {
 			// Fades out all elements
 			fadeOutAll = function() {
 				
-					for (let el of elems) {
+					for (let el of elems) { 
 						fadeOut(el);
 					}
 				},
 				
 			// Handling click event
 			handleClick = function(e) {
-					let op = getOpacity(slideimg);
-
-					if (op < .6) {
+					
+					if (opacity < .6) {
 						// Intercept click only if controls are not (enough) visible
 						clearTimeout(fto);
 						e.stopPropagation();
@@ -83,14 +82,14 @@ document.addEventListener('DOMContentLoaded', function(e) {
 						fadeInAll();
 						return false;
 					}
-
+					
 					return true;
-			},
-
+				},
+				
 			// Handling mouse move event
 			handleMouseMove = function(e) {
-
-					clearTimeout(fto);
+					
+					clearTimeout(fto);		
 					// Bringing controls/caption back if hidden
 					fadeInAll();
 					// Reinitiating after 3s of inactivity
@@ -99,10 +98,8 @@ document.addEventListener('DOMContentLoaded', function(e) {
 			
 		// Check if responsive and the elements exist
 		if (document.body.classList.contains('responsive') && slideimg && elems) {
-
-			// Listening to touchstart event occurs when the user touches an element on a touchscreen
-			slideimg.addEventListener('touchstart', handleMouseMove);
-		    // Listening to pointerup (happens before click)
+			
+			// Listening to pointerup (happens before click)
 			slideimg.addEventListener('click', handleClick);
 			// Preventing fade out while mouse moves over the main image
 			slideimg.addEventListener('mousemove', handleMouseMove);

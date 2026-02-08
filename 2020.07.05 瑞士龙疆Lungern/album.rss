@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2020.07.05 瑞士龙疆Lungern</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20-07-05-16h-02m-10s</title>
+            <link>slides/20-07-05-16h-02m-10s.html</link>
+            <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20-07-05-16h-02m-10s.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20-07-05-16h-02m-10s.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Sun, 05 Jul 2020 16:02:10 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/20-07-05-16h-02m-10s.jpg</guid>
+        </item>
+        <item>
+            <title>20-07-05-16h-17m-41s</title>
+            <link>slides/20-07-05-16h-17m-41s.html</link>
+            <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20-07-05-16h-17m-41s.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20-07-05-16h-17m-41s.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Sun, 05 Jul 2020 16:17:41 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/20-07-05-16h-17m-41s.jpg</guid>
+        </item>
+        <item>
+            <title>20-07-05-12h-43m-53s</title>
+            <link>slides/20-07-05-12h-43m-53s.html</link>
+            <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20-07-05-12h-43m-53s.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20-07-05-12h-43m-53s.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Sun, 05 Jul 2020 12:43:53 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/20-07-05-12h-43m-53s.jpg</guid>
+        </item>
+        <item>
+            <title>20-07-05-10h-56m-50s</title>
+            <link>slides/20-07-05-10h-56m-50s.html</link>
+            <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20-07-05-10h-56m-50s.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20-07-05-10h-56m-50s.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Sun, 05 Jul 2020 10:56:50 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/20-07-05-10h-56m-50s.jpg</guid>
+        </item>
+        <item>
+            <title>20-07-05-15h-28m-39s</title>
+            <link>slides/20-07-05-15h-28m-39s.html</link>
+            <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20-07-05-15h-28m-39s.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/20-07-05-15h-28m-39s.jpg" width="1067" height="800"/>
+            <jalbum:exif originalDate="Sun, 05 Jul 2020 15:28:39 +0200" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
+            <guid isPermaLink="false">slides/20-07-05-15h-28m-39s.jpg</guid>
+        </item>
+    </channel>
+</rss>

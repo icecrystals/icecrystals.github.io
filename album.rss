@@ -59,6 +59,11 @@
     	<jalbum:link rel="sub" href="2023.04%20Stoos%E5%B1%B1/album.rss" title="2023.04 Stoos山" thumbnail="2023.04%20Stoos%E5%B1%B1/thumbs/ABC55E9F-F66E-4164-AA97-EB04047B7CFA.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/album.rss" title="2022.11 卢塞恩" thumbnail="2022.11%20%E5%8D%A2%E5%A1%9E%E6%81%A9/thumbs/87F53F1E-E0AD-4DC8-BB8F-90D11842CE38.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="2022.08%20%E8%8B%8F%E9%BB%8E%E4%B8%96/album.rss" title="2022.08 苏黎世" thumbnail="2022.08%20%E8%8B%8F%E9%BB%8E%E4%B8%96/thumbs/F9246FE3-A77D-4390-A91F-2CE95543FE32.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2020.07.05%20%E7%91%9E%E5%A3%AB%E9%BE%99%E7%96%86Lungern/album.rss" title="2020.07.05 瑞士龙疆Lungern" thumbnail="2020.07.05%20%E7%91%9E%E5%A3%AB%E9%BE%99%E7%96%86Lungern/thumbs/20-07-05-16h-02m-10s.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2020.02.12-13%20%E7%91%9E%E5%A3%ABBrigels/album.rss" title="2020.02.12-13 瑞士Brigels" thumbnail="2020.02.12-13%20%E7%91%9E%E5%A3%ABBrigels/thumbs/20-02-13-09h-24m-10s.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2019.12.28%20%E7%91%9E%E5%A3%AB%E5%B0%91%E5%A5%B3%E5%B3%B0/album.rss" title="2019.12.28 瑞士少女峰" thumbnail="2019.12.28%20%E7%91%9E%E5%A3%AB%E5%B0%91%E5%A5%B3%E5%B3%B0/thumbs/19-12-28-19h-32m-33s.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2019.12.19%20%E7%91%9E%E5%A3%ABRigi%E5%B1%B1/album.rss" title="2019.12.19 瑞士Rigi山" thumbnail="2019.12.19%20%E7%91%9E%E5%A3%ABRigi%E5%B1%B1/thumbs/19-12-30-13h-56m-20s.jpg" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="2019.11.02%20%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E5%85%B0/album.rss" title="2019.11.02 意大利米兰" thumbnail="2019.11.02%20%E6%84%8F%E5%A4%A7%E5%88%A9%E7%B1%B3%E5%85%B0/thumbs/19-11-02-13h-51m-54s.jpg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="999%E5%9B%BE%E5%BA%8A/album.rss" title="999图床" thumbnail="999%E5%9B%BE%E5%BA%8A/thumbs/IMG_1686643564E8-1.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     </channel>
 </rss>
