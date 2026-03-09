@@ -77,6 +77,8 @@ img {
 	max-width: 100%;
 	padding: 0 5px;
 	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #nav > .btn img {
@@ -189,7 +191,7 @@ img {
 	align-items: center;
 	overflow: hidden;
 
-	/* Reserve space so image size never changes when UI hides */
+	/* Reserve space */
 	--slide-top-space: 70px;
 	--slide-bottom-space: 60px;
 }
@@ -231,15 +233,66 @@ img {
 	overflow: hidden;
 }
 
-#slide-page.responsive header,
-#slide-page.responsive footer {
-	transition: background-color 500ms ease;
-}
-
-/* The auto-hide should affect inner content only, not the reserved spaces */
+/* Completely disable autohide/fade/hide */
+.autohide,
+header.autohide,
+footer.autohide,
+#nav.autohide,
+#caption.autohide,
+#caption-inner.autohide,
 #slide-page.responsive header .autohide,
 #slide-page.responsive footer .autohide {
-	transition: opacity 300ms ease, visibility 300ms ease;
+	opacity: 1 !important;
+	visibility: visible !important;
+	display: block !important;
+	transform: none !important;
+	transition: none !important;
+	pointer-events: auto !important;
+}
+
+#nav.autohide {
+	display: flex !important;
+}
+
+#caption.autohide {
+	display: flex !important;
+}
+
+#caption-inner.autohide {
+	display: block !important;
+}
+
+.autohide.hidden,
+.hidden.autohide,
+.autohide.hide,
+.hide.autohide,
+.autohide.invisible,
+.invisible.autohide {
+	opacity: 1 !important;
+	visibility: visible !important;
+	display: block !important;
+	transform: none !important;
+}
+
+#nav.autohide.hidden,
+#nav.hidden.autohide,
+#nav.autohide.hide,
+#nav.hide.autohide {
+	display: flex !important;
+}
+
+#caption.autohide.hidden,
+#caption.hidden.autohide,
+#caption.autohide.hide,
+#caption.hide.autohide {
+	display: flex !important;
+}
+
+#caption-inner.autohide.hidden,
+#caption-inner.hidden.autohide,
+#caption-inner.autohide.hide,
+#caption-inner.hide.autohide {
+	display: block !important;
 }
 
 /************** Thumbnail navigation */
@@ -356,8 +409,13 @@ img {
 /************** Footer */
 #caption {
 	padding: 0;
+	width: 100%;
 	max-width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	overflow: hidden;
+	text-align: center;
 }
 
 #caption-inner {
@@ -365,6 +423,10 @@ img {
 	padding: 10px;
 	max-height: 100%;
 	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	align-self: center;
 }
 
 #caption audio {
@@ -379,15 +441,20 @@ img {
 #imagetitle {
 	font-size: 1.125em;
 	margin: 5px;
+	text-align: center;
 }
 
 #slidecomment {
 	font-size: 0.875em;
 	padding: 10px 15px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #creditlink {
 	opacity: 0.5;
 	font-size: 0.75em;
 	padding: 10px 15px;
+	text-align: center;
 }
