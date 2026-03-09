@@ -5,6 +5,14 @@
 * {
 	box-sizing: border-box;
 }
+
+html,
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
 body {
 	display: flex;
 	flex-direction: column;
@@ -17,27 +25,32 @@ body {
 	font-size: 16px;
 	text-align: center;
 }
+
 .jalbumWidgetbar body {
 	margin-bottom: 20px;
 }
-.jalbumWidgetbar #slide-page.responsive footer#caption {
-    bottom: 25px;
-}
+
 a {
 	outline: 0;
 }
-a:link, a:visited, a:active {
-	text-decoration: none
+
+a:link,
+a:visited,
+a:active {
+	text-decoration: none;
 }
+
 a:hover {
 	text-decoration: underline;
 }
+
 img {
 	border: none;
 	display: inline-block;
 	max-width: 100%;
 	height: auto;
 }
+
 .noborder {
 	border: none;
 }
@@ -48,6 +61,7 @@ img {
 	font-size: 1.75em;
 	margin: 30px 30px 15px;
 }
+
 #albumdescription,
 #foldercomment {
 	font-size: 1em;
@@ -64,9 +78,10 @@ img {
 	padding: 0 5px;
 	overflow: hidden;
 }
+
 #nav > .btn img {
-	height:  32px;
-	width:  32px;
+	height: 32px;
+	width: 32px;
 	margin: 10px;
 }
 
@@ -80,21 +95,26 @@ img {
 	align-content: flex-start;
 	align-items: stretch;
 }
+
 #thumbnails > div {
 	display: flex;
 	flex-direction: column;
 	margin: 7px;
 }
+
 #thumbnails > div:not(.folder) {
 	width: 124px;
 	min-height: 124px;
 }
+
 #thumbnails > div.folder {
 	width: 124px;
 }
+
 #thumbnails.mixed > div:not(.folder) {
 	justify-content: flex-end;
 }
+
 #thumbnails > div > a {
 	display: flex;
 	justify-content: center;
@@ -102,35 +122,44 @@ img {
 	overflow: hidden;
 	padding: 0px;
 }
+
 #thumbnails > div:not(.folder) > a {
 	height: 124px;
 }
+
 #thumbnails > div img {
 	display: block;
 	max-height: 100%;
 }
+
 #thumbnails.free-shape > div:not(.folder).no-caption > a {
 	flex: 1;
 	align-items: center;
 }
+
 #thumbnails.free-shape > div:not(.folder).has-caption > a {
 	flex: none;
 	align-items: flex-end;
 }
+
 #thumbnails.free-shape-folders > div.folder.no-caption > a {
 	flex: 1;
 	align-items: center;
 }
+
 #thumbnails.free-shape-folders > div.folder.has-caption > a {
 	flex: none;
 	align-items: flex-end;
 }
+
 #thumbnails.free-shape-folders > div.folder a {
 	height: 124px;
 }
+
 #thumbnails.free-shape.mixed > div:not(.folder) a {
 	flex: 1;
 }
+
 #thumbnails.mixed > .folder > a::after {
 	position: absolute;
 	left: 0;
@@ -142,6 +171,7 @@ img {
 	background: url("folder.svg") center center no-repeat;
 	background-size: contain;
 }
+
 #thumbnails > div > div {
 	overflow: hidden;
 	text-overflow: ellipsis;
@@ -151,21 +181,65 @@ img {
 
 /************** Slide page */
 #slide-page.responsive {
+	width: 100%;
 	height: 100vh;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	overflow: hidden;
+
+	/* Reserve space so image size never changes when UI hides */
+	--slide-top-space: 70px;
+	--slide-bottom-space: 60px;
 }
+
 .jalbumWidgetbar #slide-page {
 	height: calc(100vh - 20px);
+	min-height: calc(100vh - 20px);
 }
+
 #slide-page.non-responsive header {
 	margin-bottom: 15px;
 }
+
 #slide-page.responsive header {
-	position: fixed;
-	z-index: 99;
+	position: relative;
+	flex: 0 0 var(--slide-top-space);
+	width: 100%;
+	height: var(--slide-top-space);
+	min-height: var(--slide-top-space);
+	max-height: var(--slide-top-space);
+	z-index: 10;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
 }
+
+#slide-page.responsive footer {
+	position: relative;
+	flex: 0 0 var(--slide-bottom-space);
+	width: 100%;
+	height: var(--slide-bottom-space);
+	min-height: var(--slide-bottom-space);
+	max-height: var(--slide-bottom-space);
+	z-index: 10;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+}
+
 #slide-page.responsive header,
 #slide-page.responsive footer {
 	transition: background-color 500ms ease;
+}
+
+/* The auto-hide should affect inner content only, not the reserved spaces */
+#slide-page.responsive header .autohide,
+#slide-page.responsive footer .autohide {
+	transition: opacity 300ms ease, visibility 300ms ease;
 }
 
 /************** Thumbnail navigation */
@@ -175,19 +249,23 @@ img {
 	align-items: stretch;
 	overflow: hidden;
 }
+
 #thumbnav > * {
 	display: flex;
 	flex-direction: column;
-    justify-content: center;
+	justify-content: center;
 	flex: none;
 	margin: 8px 3px;
 }
+
 #thumbnav img {
 	padding: 0px;
 }
+
 #thumbcurrent {
 	position: relative;
 }
+
 #thumbcurrent::after {
 	content: '';
 	position: absolute;
@@ -202,30 +280,52 @@ img {
 #slideimage {
 	position: relative;
 	margin: 0;
-	padding: 15px;
+	padding: 10px 15px;
+	width: 100%;
 }
+
 .non-responsive #slideimage {
-	padding: 0px;	
+	padding: 0px;
 }
+
 .responsive #slideimage {
+	flex: 1 1 auto;
+	min-height: 0;
+	width: 100%;
 	display: flex;
+	align-items: center;
+	justify-content: center;
 	overflow: hidden;
-	min-height: 60vh;
-	flex: 1;
 }
-.responsive #slideimage img {
-	display: inline-block;
-	vertical-align: middle;
-    object-fit: contain;
-    width: 100%;
-    height: 100%;
+
+#imagewrap {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
 }
+
+.responsive #slideimage img,
+#imagewrap img {
+	display: block;
+	max-width: 100%;
+	max-height: 100%;
+	width: auto !important;
+	height: auto !important;
+	object-fit: contain;
+	margin: auto;
+}
+
 #slideimage video {
 	outline: 0;
 	max-width: 100%;
 	max-height: 100%;
+	width: auto;
 	height: auto !important;
 	align-self: center;
+	object-fit: contain;
 }
 
 /************** Prev / Next */
@@ -236,9 +336,11 @@ img {
 	width: 40%;
 	height: 100%;
 }
+
 #slide-prev:hover {
 	background: url("prev-img.svg") no-repeat left 40px center;
 }
+
 #slide-next {
 	position: absolute;
 	top: 0;
@@ -246,34 +348,44 @@ img {
 	width: 60%;
 	height: 100%;
 }
+
 #slide-next:hover {
 	background: url("next-img.svg") no-repeat right 40px center;
 }
 
 /************** Footer */
-#slide-page.responsive footer {
-	position: fixed;
-	bottom: 0;
-	z-index: 99;
-}
 #caption {
-	padding: 10px;
+	padding: 0;
+	max-width: 100%;
+	overflow: hidden;
 }
+
+#caption-inner {
+	width: min(96vw, 1200px);
+	padding: 10px;
+	max-height: 100%;
+	overflow: hidden;
+}
+
 #caption audio {
 	width: 13rem;
 }
+
 #caption audio::-webkit-media-controls-current-time-display,
 #caption audio::-webkit-media-controls-time-remaining-display {
-    display: none;
+	display: none;
 }
+
 #imagetitle {
 	font-size: 1.125em;
 	margin: 5px;
 }
+
 #slidecomment {
 	font-size: 0.875em;
 	padding: 10px 15px;
 }
+
 #creditlink {
 	opacity: 0.5;
 	font-size: 0.75em;

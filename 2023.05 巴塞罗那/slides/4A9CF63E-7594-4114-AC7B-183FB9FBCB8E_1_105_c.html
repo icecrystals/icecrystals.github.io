@@ -26,8 +26,8 @@ document.onkeydown = function(event) {
 </head>
 
 <body id="slide-page" class="responsive">
-	<header class="autohide">
-		<div id="nav">
+	<header>
+		<div id="nav" class="autohide">
 			<a class="btn" href="../index.html" title="To index page"><img src="../../res/icon/thin/light/index.svg" alt="To index page"></a>
 
 			<div id="thumbnav">
@@ -53,11 +53,13 @@ document.onkeydown = function(event) {
 		<a href="56E3A5C0-7674-4075-A2CB-11FFE2E8DEEE_1_105_c.html" id="slide-next" title="Next page"></a>
 	</div>
 
-	<footer class="autohide" id="caption" style="max-width: 1068px">
+	<footer id="caption">
+		<div id="caption-inner" class="autohide">
 
-			<div id="imagetitle">码头上的海鸥</div>
+				<div id="imagetitle">码头上的海鸥</div>
 
 
+		</div>
 	</footer>
 
 	<script src="../../res/slide.js"></script>

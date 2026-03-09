@@ -23,8 +23,8 @@ document.onkeydown = function(event) {
 </head>
 
 <body id="slide-page" class="responsive">
-	<header class="autohide">
-		<div id="nav">
+	<header>
+		<div id="nav" class="autohide">
 			<a class="btn" href="../index.html" title="To index page"><img src="../../res/icon/thin/light/index.svg" alt="To index page"></a>
 
 			<div id="thumbnav">
@@ -49,11 +49,13 @@ document.onkeydown = function(event) {
 		<a href="E110531E-2821-4999-BA47-32583EE513EC.html" id="slide-prev" title="Previous page"></a>
 	</div>
 
-	<footer class="autohide" id="caption" style="max-width: 1200px">
+	<footer id="caption">
+		<div id="caption-inner" class="autohide">
 
-			<div id="imagetitle">山坡</div>
+				<div id="imagetitle">山坡</div>
 
 
+		</div>
 	</footer>
 
 	<script src="../../res/slide.js"></script>
