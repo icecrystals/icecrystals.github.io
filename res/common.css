@@ -76,7 +76,7 @@ img {
 	align-items: center;
 	max-width: 100%;
 	padding: 0 5px;
-	overflow: hidden;
+	overflow: visible;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -207,16 +207,12 @@ img {
 
 #slide-page.responsive header {
 	position: relative;
-	flex: 0 0 var(--slide-top-space);
 	width: 100%;
-	height: var(--slide-top-space);
 	min-height: var(--slide-top-space);
-	max-height: var(--slide-top-space);
 	z-index: 10;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	overflow: hidden;
 }
 
 #slide-page.responsive footer {
