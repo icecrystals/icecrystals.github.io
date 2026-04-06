@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2026.04.06 苏黎世 Forch-Pfannenstiel徒步</title>
+   	<link>..</link>
+        <generator>jAlbum 33.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>草地上的牛群</title>
+            <link>slides/IMG_5348.html</link>
+            <pubDate>Mon, 06 Apr 2026 22:48:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5348.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5348.jpg" width="1197" height="800"/>
+            <jalbum:exif originalDate="Mon, 06 Apr 2026 15:53:37 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5348.jpg</guid>
+        </item>
+        <item>
+            <title>森林</title>
+            <link>slides/IMG_5313.html</link>
+            <pubDate>Mon, 06 Apr 2026 22:48:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5313.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5313.jpg" width="535" height="800"/>
+            <jalbum:exif originalDate="Mon, 06 Apr 2026 14:09:19 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5313.jpg</guid>
+        </item>
+        <item>
+            <title>林间小径</title>
+            <link>slides/IMG_5326.html</link>
+            <pubDate>Mon, 06 Apr 2026 22:48:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5326.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5326.jpg" width="535" height="800"/>
+            <jalbum:exif originalDate="Mon, 06 Apr 2026 15:04:03 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5326.jpg</guid>
+        </item>
+        <item>
+            <title>在Pfannenstiel塔上远眺</title>
+            <link>slides/IMG_5338.html</link>
+            <pubDate>Mon, 06 Apr 2026 22:48:45 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5338.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5338.jpg" width="1197" height="800"/>
+            <jalbum:exif originalDate="Mon, 06 Apr 2026 15:34:18 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5338.jpg</guid>
+        </item>
+    </channel>
+</rss>
