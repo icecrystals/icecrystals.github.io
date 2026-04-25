@@ -3,10 +3,10 @@
      xmlns:media="http://search.yahoo.com/mrss/"
      xmlns:jalbum="http://jalbum.net/jalbumrss">
     <channel>
-        <title>网络相册 Personal Album</title>
+        <title>风扬夏帆</title>
    	<link>.</link>
         <generator>jAlbum 33.3</generator>
-   		<description>life.dayday.plus / img.hao.ink</description>
+   		<description>Life.DayDay.Plus</description>
         <jalbum:absolutePath></jalbum:absolutePath>
     	<jalbum:link rel="sub" href="2026.04.20%20%E8%8B%8F%E9%BB%8E%E4%B8%96%E5%85%AD%E9%B8%A3%E8%8A%82/album.rss" title="2026.04.20 苏黎世六鸣节" thumbnail="2026.04.20%20%E8%8B%8F%E9%BB%8E%E4%B8%96%E5%85%AD%E9%B8%A3%E8%8A%82/thumbs/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.jpeg" thumbnailWidth="124" thumbnailHeight="124" />
     	<jalbum:link rel="sub" href="2026.04.06%20%E8%8B%8F%E9%BB%8E%E4%B8%96%20Forch-Pfannenstiel%E5%BE%92%E6%AD%A5/album.rss" title="2026.04.06 苏黎世 Forch-Pfannenstiel徒步" thumbnail="2026.04.06%20%E8%8B%8F%E9%BB%8E%E4%B8%96%20Forch-Pfannenstiel%E5%BE%92%E6%AD%A5/thumbs/IMG_5348.jpg" thumbnailWidth="124" thumbnailHeight="124" />
