@@ -5,61 +5,61 @@
     <channel>
         <title>2019.12.28 瑞士少女峰</title>
    	<link>..</link>
-        <generator>jAlbum 33.3</generator>
+        <generator>jAlbum 34.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>19-12-28-19h-32m-33s</title>
-            <link>slides/19-12-28-19h-32m-33s.html</link>
+            <link>slides/19-12-28-19h-32m-33s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-12-28-19h-32m-33s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-12-28-19h-32m-33s.jpg" width="1200" height="675"/>
+            <media:thumbnail url="thumbs/19-12-28-19h-32m-33s.jpg" width="200" height="113"/>
+            <media:content type="image/jpeg" url="slides/19-12-28-19h-32m-33s.jpg" width="1777" height="1000"/>
             <jalbum:exif originalDate="Sat, 28 Dec 2019 14:22:23 +0100" cameraMake="Apple" cameraModel="iPhone X"/>
             <guid isPermaLink="false">slides/19-12-28-19h-32m-33s.jpg</guid>
         </item>
         <item>
             <title>19-12-28-15h-07m-59s</title>
-            <link>slides/19-12-28-15h-07m-59s.html</link>
+            <link>slides/19-12-28-15h-07m-59s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-12-28-15h-07m-59s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-12-28-15h-07m-59s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/19-12-28-15h-07m-59s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/19-12-28-15h-07m-59s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Sat, 28 Dec 2019 15:07:59 +0100" cameraMake="Apple" cameraModel="iPhone X"/>
             <guid isPermaLink="false">slides/19-12-28-15h-07m-59s.jpg</guid>
         </item>
         <item>
             <title>19-12-28-14h-47m-18s</title>
-            <link>slides/19-12-28-14h-47m-18s.html</link>
+            <link>slides/19-12-28-14h-47m-18s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-12-28-14h-47m-18s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-12-28-14h-47m-18s.jpg" width="600" height="800"/>
+            <media:thumbnail url="thumbs/19-12-28-14h-47m-18s.jpg" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/19-12-28-14h-47m-18s.jpg" width="750" height="1000"/>
             <jalbum:exif originalDate="Sat, 28 Dec 2019 14:47:18 +0100" cameraMake="Apple" cameraModel="iPhone X"/>
             <guid isPermaLink="false">slides/19-12-28-14h-47m-18s.jpg</guid>
         </item>
         <item>
             <title>19-12-28-12h-39m-09s</title>
-            <link>slides/19-12-28-12h-39m-09s.html</link>
+            <link>slides/19-12-28-12h-39m-09s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-12-28-12h-39m-09s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-12-28-12h-39m-09s.jpg" width="600" height="800"/>
+            <media:thumbnail url="thumbs/19-12-28-12h-39m-09s.jpg" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/19-12-28-12h-39m-09s.jpg" width="750" height="1000"/>
             <jalbum:exif originalDate="Sat, 28 Dec 2019 12:39:09 +0100" cameraMake="Apple" cameraModel="iPhone X"/>
             <guid isPermaLink="false">slides/19-12-28-12h-39m-09s.jpg</guid>
         </item>
         <item>
             <title>19-12-28-14h-57m-04s</title>
-            <link>slides/19-12-28-14h-57m-04s.html</link>
+            <link>slides/19-12-28-14h-57m-04s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-12-28-14h-57m-04s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-12-28-14h-57m-04s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/19-12-28-14h-57m-04s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/19-12-28-14h-57m-04s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Sat, 28 Dec 2019 14:57:04 +0100" cameraMake="Apple" cameraModel="iPhone X"/>
             <guid isPermaLink="false">slides/19-12-28-14h-57m-04s.jpg</guid>
         </item>

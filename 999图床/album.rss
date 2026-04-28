@@ -5,88 +5,88 @@
     <channel>
         <title>999图床</title>
    	<link>..</link>
-        <generator>jAlbum 33.3</generator>
+        <generator>jAlbum 34.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="20240604/album.rss" title="20240604" thumbnail="20240604/thumbs/Snipaste_2024-06-04_22-43-30.png" thumbnailWidth="124" thumbnailHeight="124" />
+    	<jalbum:link rel="sub" href="20240604/album.rss" title="20240604" thumbnail="20240604/thumbs/Snipaste_2024-06-04_22-43-30.png" thumbnailWidth="200" thumbnailHeight="60" />
         <item>
             <title>IMG_1686643564E8-1</title>
-            <link>slides/IMG_1686643564E8-1.html</link>
+            <link>slides/IMG_1686643564E8-1.jpeg</link>
             <pubDate>Sat, 08 Jul 2023 23:35:58 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_1686643564E8-1.jpeg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_1686643564E8-1.jpeg" width="750" height="800"/>
+            <media:thumbnail url="thumbs/IMG_1686643564E8-1.jpeg" width="113" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_1686643564E8-1.jpeg" width="938" height="1000"/>
             <guid isPermaLink="false">slides/IMG_1686643564E8-1.jpeg</guid>
         </item>
         <item>
             <title>DALL·E 2024-05-25 19.53.17 - Create a simple and sleek flat logo for &apos;DayDay.Plus&apos; with a blue-gray color scheme. The logo should be clean, minimalist, and convey a sense of posit</title>
-            <link>slides/DALL%C2%B7E%202024-05-25%2019.53.17%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20a%20blue-gray%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sense%20of%20posit.html</link>
+            <link>slides/DALL%C2%B7E%202024-05-25%2019.53.17%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20a%20blue-gray%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sense%20of%20posit.jpg</link>
             <pubDate>Sat, 25 May 2024 19:56:02 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/DALL%C2%B7E%202024-05-25%2019.53.17%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20a%20blue-gray%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sense%20of%20posit.jpg" width="124" height="124"/>
-            <media:content  url="slides/DALL%C2%B7E%202024-05-25%2019.53.17%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20a%20blue-gray%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sense%20of%20posit.jpg" width="800" height="800"/>
+            <media:thumbnail url="thumbs/DALL%C2%B7E%202024-05-25%2019.53.17%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20a%20blue-gray%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sense%20of%20posit.jpg" width="120" height="120"/>
+            <media:content  url="slides/DALL%C2%B7E%202024-05-25%2019.53.17%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20a%20blue-gray%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sense%20of%20posit.jpg" width="1000" height="1000"/>
             <guid isPermaLink="false">slides/DALL%C2%B7E%202024-05-25%2019.53.17%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20a%20blue-gray%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sense%20of%20posit.jpg</guid>
         </item>
         <item>
             <title>DALL·E 2024-05-25 19.55.40 - Create a simple and sleek flat logo for &apos;DayDay.Plus&apos; with an elegant light blue color scheme. The logo should be clean, minimalist, and convey a sens</title>
-            <link>slides/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.html</link>
+            <link>slides/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg</link>
             <pubDate>Sat, 25 May 2024 19:56:02 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg" width="124" height="124"/>
-            <media:content  url="slides/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg" width="800" height="800"/>
+            <media:thumbnail url="thumbs/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg" width="120" height="120"/>
+            <media:content  url="slides/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg" width="1000" height="1000"/>
             <guid isPermaLink="false">slides/DALL%C2%B7E%202024-05-25%2019.55.40%20-%20Create%20a%20simple%20and%20sleek%20flat%20logo%20for%20%27DayDay.Plus%27%20with%20an%20elegant%20light%20blue%20color%20scheme.%20The%20logo%20should%20be%20clean%2C%20minimalist%2C%20and%20convey%20a%20sens.jpg</guid>
         </item>
         <item>
             <title>IMG_0512</title>
-            <link>slides/IMG_0512.html</link>
+            <link>slides/IMG_0512.jpg</link>
             <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_0512.jpg" width="124" height="124"/>
+            <media:thumbnail url="thumbs/IMG_0512.jpg" width="200" height="113"/>
             <media:content type="image/jpeg" url="slides/IMG_0512.jpg" width="853" height="480"/>
             <guid isPermaLink="false">slides/IMG_0512.jpg</guid>
         </item>
         <item>
             <title>IMG_3237</title>
-            <link>slides/IMG_3237.html</link>
+            <link>slides/IMG_3237.PNG</link>
             <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_3237.PNG" width="124" height="124"/>
-            <media:content type="image/png" url="slides/IMG_3237.PNG" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/IMG_3237.PNG" width="160" height="120"/>
+            <media:content type="image/png" url="slides/IMG_3237.PNG" width="1334" height="1000"/>
             <guid isPermaLink="false">slides/IMG_3237.PNG</guid>
         </item>
         <item>
             <title>IMG_3379</title>
-            <link>slides/IMG_3379.html</link>
+            <link>slides/IMG_3379.jpg</link>
             <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_3379.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_3379.jpg" width="1146" height="800"/>
+            <media:thumbnail url="thumbs/IMG_3379.jpg" width="172" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_3379.jpg" width="1433" height="1000"/>
             <guid isPermaLink="false">slides/IMG_3379.jpg</guid>
         </item>
         <item>
             <title>IMG_3394</title>
-            <link>slides/IMG_3394.html</link>
+            <link>slides/IMG_3394.jpg</link>
             <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_3394.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_3394.jpg" width="301" height="800"/>
+            <media:thumbnail url="thumbs/IMG_3394.jpg" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_3394.jpg" width="376" height="1000"/>
             <guid isPermaLink="false">slides/IMG_3394.jpg</guid>
         </item>
         <item>
             <title>IMG_3389</title>
-            <link>slides/IMG_3389.html</link>
+            <link>slides/IMG_3389.jpg</link>
             <pubDate>Sat, 01 Jun 2024 11:11:41 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_3389.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_3389.jpg" width="159" height="800"/>
+            <media:thumbnail url="thumbs/IMG_3389.jpg" width="90" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_3389.jpg" width="199" height="1000"/>
             <guid isPermaLink="false">slides/IMG_3389.jpg</guid>
         </item>
     </channel>

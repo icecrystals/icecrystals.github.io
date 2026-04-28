@@ -5,37 +5,37 @@
     <channel>
         <title>2026.04.20 苏黎世六鸣节</title>
    	<link>..</link>
-        <generator>jAlbum 33.3</generator>
+        <generator>jAlbum 34.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>复古服饰的女孩</title>
-            <link>slides/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.html</link>
+            <link>slides/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.jpeg</link>
             <pubDate>Fri, 24 Apr 2026 13:04:03 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.jpeg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.jpeg" width="1200" height="675"/>
+            <media:thumbnail url="thumbs/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.jpeg" width="200" height="112"/>
+            <media:content type="image/jpeg" url="slides/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.jpeg" width="1778" height="1000"/>
             <guid isPermaLink="false">slides/0DEDE45B-9E3D-46AD-AF3F-469ACDD6D20B_1_201_a.jpeg</guid>
         </item>
         <item>
             <title>抛面包</title>
-            <link>slides/F1A145F3-CE4A-4E41-812E-D469DDF2FF38_1_201_a.html</link>
+            <link>slides/F1A145F3-CE4A-4E41-812E-D469DDF2FF38_1_201_a.jpeg</link>
             <pubDate>Fri, 24 Apr 2026 13:04:03 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/F1A145F3-CE4A-4E41-812E-D469DDF2FF38_1_201_a.jpeg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/F1A145F3-CE4A-4E41-812E-D469DDF2FF38_1_201_a.jpeg" width="1200" height="675"/>
+            <media:thumbnail url="thumbs/F1A145F3-CE4A-4E41-812E-D469DDF2FF38_1_201_a.jpeg" width="200" height="112"/>
+            <media:content type="image/jpeg" url="slides/F1A145F3-CE4A-4E41-812E-D469DDF2FF38_1_201_a.jpeg" width="1778" height="1000"/>
             <guid isPermaLink="false">slides/F1A145F3-CE4A-4E41-812E-D469DDF2FF38_1_201_a.jpeg</guid>
         </item>
         <item>
             <title>游行乐队</title>
-            <link>slides/IMG_5413.html</link>
+            <link>slides/IMG_5413.png</link>
             <pubDate>Fri, 24 Apr 2026 13:04:03 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_5413.png" width="124" height="124"/>
-            <media:content type="image/png" url="slides/IMG_5413.png" width="1200" height="800"/>
+            <media:thumbnail url="thumbs/IMG_5413.png" width="180" height="120"/>
+            <media:content type="image/png" url="slides/IMG_5413.png" width="1500" height="1000"/>
             <jalbum:exif originalDate="Mon, 20 Apr 2026 18:08:34 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_5413.png</guid>
         </item>

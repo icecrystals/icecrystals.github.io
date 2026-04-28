@@ -5,39 +5,39 @@
     <channel>
         <title>2019.11.02 意大利米兰</title>
    	<link>..</link>
-        <generator>jAlbum 33.3</generator>
+        <generator>jAlbum 34.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>19-11-02-13h-51m-54s</title>
-            <link>slides/19-11-02-13h-51m-54s.html</link>
+            <link>slides/19-11-02-13h-51m-54s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-11-02-13h-51m-54s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-11-02-13h-51m-54s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/19-11-02-13h-51m-54s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/19-11-02-13h-51m-54s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Sat, 02 Nov 2019 13:51:54 +0100" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
             <guid isPermaLink="false">slides/19-11-02-13h-51m-54s.jpg</guid>
         </item>
         <item>
             <title>19-11-02-16h-53m-45s</title>
-            <link>slides/19-11-02-16h-53m-45s.html</link>
+            <link>slides/19-11-02-16h-53m-45s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-11-02-16h-53m-45s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-11-02-16h-53m-45s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/19-11-02-16h-53m-45s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/19-11-02-16h-53m-45s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Sat, 02 Nov 2019 16:53:45 +0100" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
             <guid isPermaLink="false">slides/19-11-02-16h-53m-45s.jpg</guid>
         </item>
         <item>
             <title>19-11-02-19h-18m-02s</title>
-            <link>slides/19-11-02-19h-18m-02s.html</link>
+            <link>slides/19-11-02-19h-18m-02s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/19-11-02-19h-18m-02s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/19-11-02-19h-18m-02s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/19-11-02-19h-18m-02s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/19-11-02-19h-18m-02s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Sat, 02 Nov 2019 19:18:02 +0100" cameraMake="HUAWEI" cameraModel="ALP-AL00"/>
             <guid isPermaLink="false">slides/19-11-02-19h-18m-02s.jpg</guid>
         </item>

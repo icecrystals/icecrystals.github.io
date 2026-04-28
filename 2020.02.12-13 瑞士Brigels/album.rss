@@ -5,39 +5,39 @@
     <channel>
         <title>2020.02.12-13 瑞士Brigels</title>
    	<link>..</link>
-        <generator>jAlbum 33.3</generator>
+        <generator>jAlbum 34.3</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>20-02-13-09h-24m-10s</title>
-            <link>slides/20-02-13-09h-24m-10s.html</link>
+            <link>slides/20-02-13-09h-24m-10s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/20-02-13-09h-24m-10s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/20-02-13-09h-24m-10s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/20-02-13-09h-24m-10s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20-02-13-09h-24m-10s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Thu, 13 Feb 2020 09:24:10 +0100" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
             <guid isPermaLink="false">slides/20-02-13-09h-24m-10s.jpg</guid>
         </item>
         <item>
             <title>20-02-12-16h-29m-33s</title>
-            <link>slides/20-02-12-16h-29m-33s.html</link>
+            <link>slides/20-02-12-16h-29m-33s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/20-02-12-16h-29m-33s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/20-02-12-16h-29m-33s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/20-02-12-16h-29m-33s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20-02-12-16h-29m-33s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Wed, 12 Feb 2020 16:29:33 +0100" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
             <guid isPermaLink="false">slides/20-02-12-16h-29m-33s.jpg</guid>
         </item>
         <item>
             <title>20-02-12-15h-43m-19s</title>
-            <link>slides/20-02-12-15h-43m-19s.html</link>
+            <link>slides/20-02-12-15h-43m-19s.jpg</link>
             <pubDate>Sun, 08 Feb 2026 09:19:01 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/20-02-12-15h-43m-19s.jpg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/20-02-12-15h-43m-19s.jpg" width="1067" height="800"/>
+            <media:thumbnail url="thumbs/20-02-12-15h-43m-19s.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20-02-12-15h-43m-19s.jpg" width="1333" height="1000"/>
             <jalbum:exif originalDate="Wed, 12 Feb 2020 15:43:19 +0100" cameraMake="Apple" cameraModel="iPhone 6 Plus"/>
             <guid isPermaLink="false">slides/20-02-12-15h-43m-19s.jpg</guid>
         </item>
