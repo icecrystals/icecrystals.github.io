@@ -10,22 +10,22 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>Snipaste_2024-06-04_22-43-30</title>
-            <link>slides/Snipaste_2024-06-04_22-43-30.png</link>
+            <link>slides/Snipaste_2024-06-04_22-43-30.html</link>
             <pubDate>Tue, 04 Jun 2024 22:45:08 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/Snipaste_2024-06-04_22-43-30.png" width="200" height="60"/>
-            <media:content type="image/png" url="slides/Snipaste_2024-06-04_22-43-30.png" width="1258" height="294"/>
+            <media:thumbnail url="thumbs/Snipaste_2024-06-04_22-43-30.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Snipaste_2024-06-04_22-43-30.png" width="1200" height="280"/>
             <guid isPermaLink="false">slides/Snipaste_2024-06-04_22-43-30.png</guid>
         </item>
         <item>
             <title>Snipaste_2024-06-04_22-44-27</title>
-            <link>slides/Snipaste_2024-06-04_22-44-27.png</link>
+            <link>slides/Snipaste_2024-06-04_22-44-27.html</link>
             <pubDate>Tue, 04 Jun 2024 22:45:08 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/Snipaste_2024-06-04_22-44-27.png" width="200" height="80"/>
-            <media:content type="image/png" url="slides/Snipaste_2024-06-04_22-44-27.png" width="1474" height="590"/>
+            <media:thumbnail url="thumbs/Snipaste_2024-06-04_22-44-27.png" width="124" height="124"/>
+            <media:content type="image/png" url="slides/Snipaste_2024-06-04_22-44-27.png" width="1200" height="480"/>
             <guid isPermaLink="false">slides/Snipaste_2024-06-04_22-44-27.png</guid>
         </item>
     </channel>

@@ -9,48 +9,48 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>2024-08-10-巴黎4</title>
-            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg</link>
-            <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg" width="166" height="120"/>
-            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg" width="1383" height="1000"/>
-            <jalbum:exif originalDate="Sat, 10 Aug 2024 11:52:41 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
-            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg</guid>
-        </item>
-        <item>
             <title>2024-08-10-巴黎1</title>
-            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg</link>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.html</link>
             <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg" width="147" height="120"/>
-            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg" width="1228" height="1000"/>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg" width="982" height="800"/>
             <jalbum:exif originalDate="Sat, 10 Aug 2024 08:40:04 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
             <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E1.jpg</guid>
         </item>
         <item>
-            <title>2024-08-10-巴黎3</title>
-            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg</link>
+            <title>2024-08-10-巴黎2</title>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.html</link>
             <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg" width="147" height="120"/>
-            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg" width="1228" height="1000"/>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg" width="568" height="800"/>
+            <jalbum:exif originalDate="Sat, 10 Aug 2024 08:48:23 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
+            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg</guid>
+        </item>
+        <item>
+            <title>2024-08-10-巴黎3</title>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.html</link>
+            <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg" width="982" height="800"/>
             <jalbum:exif originalDate="Sat, 10 Aug 2024 10:46:06 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
             <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E3.jpg</guid>
         </item>
         <item>
-            <title>2024-08-10-巴黎2</title>
-            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg</link>
+            <title>2024-08-10-巴黎4</title>
+            <link>slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.html</link>
             <pubDate>Sat, 12 Oct 2024 15:43:35 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg" width="90" height="120"/>
-            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg" width="710" height="1000"/>
-            <jalbum:exif originalDate="Sat, 10 Aug 2024 08:48:23 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
-            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E2.jpg</guid>
+            <media:thumbnail url="thumbs/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg" width="1107" height="800"/>
+            <jalbum:exif originalDate="Sat, 10 Aug 2024 11:52:41 +0200" cameraMake="Apple" cameraModel="iPhone 14 Plus"/>
+            <guid isPermaLink="false">slides/2024-08-10-%E5%B7%B4%E9%BB%8E4.jpg</guid>
         </item>
     </channel>
 </rss>

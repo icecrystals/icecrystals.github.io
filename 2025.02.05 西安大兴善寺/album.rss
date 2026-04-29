@@ -10,22 +10,22 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>兴善寺的秋</title>
-            <link>slides/2521767377090_.pic_hd.jpg</link>
+            <link>slides/2521767377090_.pic_hd.html</link>
             <pubDate>Fri, 02 Jan 2026 19:06:16 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2521767377090_.pic_hd.jpg" width="180" height="120"/>
-            <media:content type="image/jpeg" url="slides/2521767377090_.pic_hd.jpg" width="1500" height="1000"/>
+            <media:thumbnail url="thumbs/2521767377090_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2521767377090_.pic_hd.jpg" width="1200" height="800"/>
             <guid isPermaLink="false">slides/2521767377090_.pic_hd.jpg</guid>
         </item>
         <item>
             <title>大兴善寺</title>
-            <link>slides/2531767377093_.pic_hd.jpg</link>
+            <link>slides/2531767377093_.pic_hd.html</link>
             <pubDate>Fri, 02 Jan 2026 19:06:16 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2531767377093_.pic_hd.jpg" width="180" height="120"/>
-            <media:content type="image/jpeg" url="slides/2531767377093_.pic_hd.jpg" width="1500" height="1000"/>
+            <media:thumbnail url="thumbs/2531767377093_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/2531767377093_.pic_hd.jpg" width="1200" height="800"/>
             <guid isPermaLink="false">slides/2531767377093_.pic_hd.jpg</guid>
         </item>
     </channel>

@@ -10,63 +10,63 @@
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
             <title>1301765548213_.pic_hd</title>
-            <link>slides/1301765548213_.pic_hd.jpg</link>
+            <link>slides/1301765548213_.pic_hd.html</link>
             <pubDate>Fri, 12 Dec 2025 15:06:30 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1301765548213_.pic_hd.jpg" width="151" height="120"/>
-            <media:content type="image/jpeg" url="slides/1301765548213_.pic_hd.jpg" width="1259" height="1000"/>
+            <media:thumbnail url="thumbs/1301765548213_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1301765548213_.pic_hd.jpg" width="1007" height="800"/>
             <guid isPermaLink="false">slides/1301765548213_.pic_hd.jpg</guid>
         </item>
         <item>
             <title>1311765548216_.pic_hd</title>
-            <link>slides/1311765548216_.pic_hd.jpg</link>
+            <link>slides/1311765548216_.pic_hd.html</link>
             <pubDate>Fri, 12 Dec 2025 15:06:30 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1311765548216_.pic_hd.jpg" width="140" height="120"/>
-            <media:content type="image/jpeg" url="slides/1311765548216_.pic_hd.jpg" width="1163" height="1000"/>
+            <media:thumbnail url="thumbs/1311765548216_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1311765548216_.pic_hd.jpg" width="930" height="800"/>
             <guid isPermaLink="false">slides/1311765548216_.pic_hd.jpg</guid>
         </item>
         <item>
             <title>1321765548217_.pic_hd</title>
-            <link>slides/1321765548217_.pic_hd.jpg</link>
+            <link>slides/1321765548217_.pic_hd.html</link>
             <pubDate>Fri, 12 Dec 2025 15:06:30 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1321765548217_.pic_hd.jpg" width="140" height="120"/>
-            <media:content type="image/jpeg" url="slides/1321765548217_.pic_hd.jpg" width="1166" height="1000"/>
+            <media:thumbnail url="thumbs/1321765548217_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1321765548217_.pic_hd.jpg" width="933" height="800"/>
             <guid isPermaLink="false">slides/1321765548217_.pic_hd.jpg</guid>
         </item>
         <item>
-            <title>1351765548221_.pic_hd</title>
-            <link>slides/1351765548221_.pic_hd.jpg</link>
+            <title>1331765548218_.pic_hd</title>
+            <link>slides/1331765548218_.pic_hd.html</link>
             <pubDate>Fri, 12 Dec 2025 15:06:30 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1351765548221_.pic_hd.jpg" width="90" height="120"/>
-            <media:content type="image/jpeg" url="slides/1351765548221_.pic_hd.jpg" width="679" height="1000"/>
-            <guid isPermaLink="false">slides/1351765548221_.pic_hd.jpg</guid>
+            <media:thumbnail url="thumbs/1331765548218_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1331765548218_.pic_hd.jpg" width="931" height="800"/>
+            <guid isPermaLink="false">slides/1331765548218_.pic_hd.jpg</guid>
         </item>
         <item>
             <title>1341765548220_.pic_hd</title>
-            <link>slides/1341765548220_.pic_hd.jpg</link>
+            <link>slides/1341765548220_.pic_hd.html</link>
             <pubDate>Fri, 12 Dec 2025 15:06:30 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1341765548220_.pic_hd.jpg" width="139" height="120"/>
-            <media:content type="image/jpeg" url="slides/1341765548220_.pic_hd.jpg" width="1162" height="1000"/>
+            <media:thumbnail url="thumbs/1341765548220_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1341765548220_.pic_hd.jpg" width="929" height="800"/>
             <guid isPermaLink="false">slides/1341765548220_.pic_hd.jpg</guid>
         </item>
         <item>
-            <title>1331765548218_.pic_hd</title>
-            <link>slides/1331765548218_.pic_hd.jpg</link>
+            <title>1351765548221_.pic_hd</title>
+            <link>slides/1351765548221_.pic_hd.html</link>
             <pubDate>Fri, 12 Dec 2025 15:06:30 +0100</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1331765548218_.pic_hd.jpg" width="140" height="120"/>
-            <media:content type="image/jpeg" url="slides/1331765548218_.pic_hd.jpg" width="1164" height="1000"/>
-            <guid isPermaLink="false">slides/1331765548218_.pic_hd.jpg</guid>
+            <media:thumbnail url="thumbs/1351765548221_.pic_hd.jpg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/1351765548221_.pic_hd.jpg" width="543" height="800"/>
+            <guid isPermaLink="false">slides/1351765548221_.pic_hd.jpg</guid>
         </item>
     </channel>
 </rss>
