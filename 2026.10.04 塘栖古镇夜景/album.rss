@@ -9,26 +9,26 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
-            <title>大运河夜景</title>
-            <link>slides/IMG_20261004_202937.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_20261004_202937.jpeg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_20261004_202937.jpeg" width="1200" height="736"/>
-            <jalbum:exif originalDate="Sun, 04 Oct 2026 20:29:37 +0800" cameraMake="vivo" cameraModel="vivo X100 Ultra"/>
-            <guid isPermaLink="false">slides/IMG_20261004_202937.jpeg</guid>
-        </item>
-        <item>
             <title>大运河游船</title>
             <link>slides/IMG_20261004_203535.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_20261004_203535.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_20261004_203535.jpeg" width="1063" height="800"/>
-            <jalbum:exif originalDate="Sun, 04 Oct 2026 20:35:35 +0800" cameraMake="vivo" cameraModel="vivo X100 Ultra"/>
+            <jalbum:exif originalDate="Sun, 04 Oct 2026 14:35:35 +0200" cameraMake="vivo" cameraModel="vivo X100 Ultra"/>
             <guid isPermaLink="false">slides/IMG_20261004_203535.jpeg</guid>
+        </item>
+        <item>
+            <title>大运河夜景</title>
+            <link>slides/IMG_20261004_202937.html</link>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20261004_202937.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20261004_202937.jpeg" width="1200" height="736"/>
+            <jalbum:exif originalDate="Sun, 04 Oct 2026 14:29:37 +0200" cameraMake="vivo" cameraModel="vivo X100 Ultra"/>
+            <guid isPermaLink="false">slides/IMG_20261004_202937.jpeg</guid>
         </item>
     </channel>
 </rss>

@@ -9,91 +9,91 @@
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
         <item>
+            <title>拍照的人</title>
+            <link>slides/IMG_6314.html</link>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6314.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6314.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Wed, 07 Oct 2026 07:10:54 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6314.jpeg</guid>
+        </item>
+        <item>
             <title>墙上乌镇光影</title>
             <link>slides/IMG_6570.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_6570.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_6570.jpeg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Wed, 07 Oct 2026 19:34:18 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Wed, 07 Oct 2026 13:34:18 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6570.jpeg</guid>
         </item>
         <item>
             <title>乌镇染坊</title>
             <link>slides/IMG_6189.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_6189.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_6189.jpeg" width="1144" height="800"/>
-            <jalbum:exif originalDate="Wed, 07 Oct 2026 09:52:28 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Wed, 07 Oct 2026 03:52:28 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6189.jpeg</guid>
         </item>
         <item>
             <title>乌镇河道</title>
             <link>slides/IMG_6227.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_6227.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_6227.jpeg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Wed, 07 Oct 2026 10:19:13 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Wed, 07 Oct 2026 04:19:13 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6227.jpeg</guid>
         </item>
         <item>
             <title>太学</title>
             <link>slides/IMG_6246.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_6246.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_6246.jpeg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Wed, 07 Oct 2026 10:33:18 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Wed, 07 Oct 2026 04:33:18 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6246.jpeg</guid>
-        </item>
-        <item>
-            <title>拍照的人</title>
-            <link>slides/IMG_6314.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
-            <description></description>
-            <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/IMG_6314.jpeg" width="124" height="124"/>
-            <media:content type="image/jpeg" url="slides/IMG_6314.jpeg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Wed, 07 Oct 2026 13:10:54 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
-            <guid isPermaLink="false">slides/IMG_6314.jpeg</guid>
         </item>
         <item>
             <title>正在表演的coser</title>
             <link>slides/IMG_6411.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_6411.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_6411.jpeg" width="533" height="800"/>
-            <jalbum:exif originalDate="Wed, 07 Oct 2026 16:06:35 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Wed, 07 Oct 2026 10:06:35 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6411.jpeg</guid>
         </item>
         <item>
             <title>倒影</title>
             <link>slides/IMG_6565.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_6565.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_6565.jpeg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Wed, 07 Oct 2026 19:25:57 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Wed, 07 Oct 2026 13:25:57 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6565.jpeg</guid>
         </item>
         <item>
             <title>乌镇清晨</title>
             <link>slides/IMG_6609.html</link>
-            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <pubDate>Mon, 12 Oct 2026 22:43:09 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
             <media:thumbnail url="thumbs/IMG_6609.jpeg" width="124" height="124"/>
             <media:content type="image/jpeg" url="slides/IMG_6609.jpeg" width="1200" height="800"/>
-            <jalbum:exif originalDate="Thu, 08 Oct 2026 08:46:39 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <jalbum:exif originalDate="Thu, 08 Oct 2026 02:46:39 +0200" cameraMake="Canon" cameraModel="Canon EOS R8"/>
             <guid isPermaLink="false">slides/IMG_6609.jpeg</guid>
         </item>
     </channel>
