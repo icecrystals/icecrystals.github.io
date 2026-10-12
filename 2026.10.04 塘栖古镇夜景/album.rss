@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2026.10.04 塘栖古镇夜景</title>
+   	<link>..</link>
+        <generator>jAlbum 34.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>大运河夜景</title>
+            <link>slides/IMG_20261004_202937.html</link>
+            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20261004_202937.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20261004_202937.jpeg" width="1200" height="736"/>
+            <jalbum:exif originalDate="Sun, 04 Oct 2026 20:29:37 +0800" cameraMake="vivo" cameraModel="vivo X100 Ultra"/>
+            <guid isPermaLink="false">slides/IMG_20261004_202937.jpeg</guid>
+        </item>
+        <item>
+            <title>大运河游船</title>
+            <link>slides/IMG_20261004_203535.html</link>
+            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_20261004_203535.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_20261004_203535.jpeg" width="1063" height="800"/>
+            <jalbum:exif originalDate="Sun, 04 Oct 2026 20:35:35 +0800" cameraMake="vivo" cameraModel="vivo X100 Ultra"/>
+            <guid isPermaLink="false">slides/IMG_20261004_203535.jpeg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2026.10.06 杭州西湖</title>
+   	<link>..</link>
+        <generator>jAlbum 34.3</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>雨中西湖</title>
+            <link>slides/IMG_5649.html</link>
+            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5649.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_5649.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Sun, 04 Oct 2026 03:09:46 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_5649.jpeg</guid>
+        </item>
+        <item>
+            <title>从雷峰塔眺望杭州</title>
+            <link>slides/IMG_6092.html</link>
+            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6092.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6092.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Tue, 06 Oct 2026 17:17:06 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6092.jpeg</guid>
+        </item>
+        <item>
+            <title>夕阳中的西湖</title>
+            <link>slides/IMG_6116.html</link>
+            <pubDate>Tue, 13 Oct 2026 04:43:09 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_6116.jpeg" width="124" height="124"/>
+            <media:content type="image/jpeg" url="slides/IMG_6116.jpeg" width="1200" height="800"/>
+            <jalbum:exif originalDate="Tue, 06 Oct 2026 17:26:40 +0800" cameraMake="Canon" cameraModel="Canon EOS R8"/>
+            <guid isPermaLink="false">slides/IMG_6116.jpeg</guid>
+        </item>
+    </channel>
+</rss>
